@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>pear.phix-project.org</name>
+	<summary>Phix Project PEAR channel</summary>
+	<alias>phix</alias>
+	<url>http://pear.phix-project.org</url>
+</server>

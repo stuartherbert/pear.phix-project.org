@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>PhpInfo</n>
+<c>pear.phix-project.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD license.</l>
+<s>A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.</s>
+<d>
+    A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.
+  </d>
+<r xlink:href="/rest/r/phpinfo" />
+</p>
