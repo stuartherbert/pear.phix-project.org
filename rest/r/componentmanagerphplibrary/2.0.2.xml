@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/componentmanagerphplibrary">ComponentManagerPhpLibrary</p>
+    <c>pear.phix-project.org</c>
+    <v>2.0.2</v>
+    <st>stable</st>
+    <l>New BSD license</l>
+    <m>stuart</m>
+    <s>Supports creating and managing a php-library component</s>
+    <d>
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  </d>
+    <da>2011-08-16 16:50:08</da>
+    <n>
+    No notes.
+  </n>
+    <f>10267</f>
+    <g>http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.0.2</g>
+    <x xlink:href="package.2.0.2.xml"/>
+</r>
