@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>Autoloader</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>Simple PHP library for autoloading classes</summary>
+  <description>
+    Autoloader is a PSR0-compatible autoloader.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-08-02</date>
+  <time>14:30:07</time>
+  <version>
+  <release>2.0.1</release>
+    <api>2.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>All rights reserved. Released under the BSD license.</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/dummy.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="2b4b42364a87c24cd7a40a24adfd542b" name="/autoloader.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8b7a0c7cebbe1915810a21bb8e2f4eb6" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="b1d59f5df11e8b57a0105bdd448f8342" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-01-28</date>
+      <license>All rights reserved. Released under the BSD license.</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

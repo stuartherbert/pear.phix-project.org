@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>ValidationLib</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>Lightweight library of reusable data validation tools</summary>
+  <description>
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-08-02</date>
+  <time>16:03:31</time>
+  <version>
+  <release>2.0.0</release>
+    <api>2.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>BSD license</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="ff9b6a7ad92578550ffea85ed45677b8" name="/Phix/ValidationLib/Validator.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f78a308a6ec7dc5a48dd747505f2356a" name="/Phix/ValidationLib/MustBeString.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e3274be913504158d9460e705f80b1af" name="/Phix/ValidationLib/MustBeValidPath.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="da1a8c50f6845a86ce61a110bb4b1c29" name="/Phix/ValidationLib/ValidatorAbstract.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="334296af4f9c58e6251925ff5890bc48" name="/Phix/ValidationLib/MustBeValidFile.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="10adb59609787e024229e361131c45cc" name="/Phix/ValidationLib/MustBeInteger.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="cf1202d0de016e839a9ad40036b6b3af" name="/Phix/ValidationLib/MustBeWriteable.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="12a1412a4e570b01a274c6585336be96" name="/Phix/ValidationLib/MustBeStringTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="bf7858b6018631d6ca26c7b4570e7a13" name="/Phix/ValidationLib/MustBeIntegerTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="aa2dc91df856a4875b5a21137ce39c13" name="/Phix/ValidationLib/MustBeWriteableTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="641a8edd45a6677904c48c40018f3f1e" name="/Phix/ValidationLib/MustBeValidFileTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="678eb21b232a4ba60f993b88ed13a2ed" name="/Phix/ValidationLib/ValidationLibTestBase.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="ce1eba566b7fff2106fa5eeef3523606" name="/Phix/ValidationLib/MustBeValidPathTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="cbfbb50077b9c7824078276e503ecda5" name="/Phix/ValidationLib/ValidatorAbstractTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="ad65d9c5530ee58d73a017a36fde4d86" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e27857c936b41bf12d0396f7882db1a9" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+	      <max>3.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-13</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

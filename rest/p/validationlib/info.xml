@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>ValidationLib</n>
+<c>pear.phix-project.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>BSD license</l>
+<s>Lightweight library of reusable data validation tools</s>
+<d>
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  </d>
+<r xlink:href="/rest/r/validationlib" />
+</p>

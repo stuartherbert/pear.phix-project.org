@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/autoloader">Autoloader</p>
+    <c>pear.phix-project.org</c>
+    <v>3.0.0</v>
+    <st>stable</st>
+    <l>All rights reserved. Released under the BSD license.</l>
+    <m>stuart</m>
+    <s>Simple PHP library for autoloading classes</s>
+    <d>
+    Autoloader is a PSR0-compatible autoloader.
+  </d>
+    <da>2011-08-02 15:51:33</da>
+    <n>
+    No notes.
+  </n>
+    <f>4130</f>
+    <g>http://pear.phix-project.org/get/Autoloader-3.0.0</g>
+    <x xlink:href="package.3.0.0.xml"/>
+</r>

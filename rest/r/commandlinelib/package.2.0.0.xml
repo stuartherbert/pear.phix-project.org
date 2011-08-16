@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>CommandLineLib</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>A simple-to-use command line parser</summary>
+  <description>
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-08-02</date>
+  <time>16:04:27</time>
+  <version>
+  <release>2.0.0</release>
+    <api>2.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license.</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="26f0f3b55fc7a783fee71f5cca34d2e1" name="/Phix/CommandLineLib/ParsedSwitches.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="bedcc4dbb50f732bb2ffdc0734ad9fa7" name="/Phix/CommandLineLib/DefinedSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e41335d37e60a2d7c59e63b2c45f40b8" name="/Phix/CommandLineLib/ParsedSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="3e4a1cc501cb1847eb992516d862a82f" name="/Phix/CommandLineLib/DefinedSwitches.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="58fef75637d1440bd2396239c9d0af71" name="/Phix/CommandLineLib/DefinedArg.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="59bc6a4ca785e6426a2a36c365520937" name="/Phix/CommandLineLib/CommandLineParser.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="80a204ef081de493b1a25003cfeb9d9f" name="/Phix/CommandLineLib/DefinedSwitchesTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="34c8da6f5d633c4a87e9d127f8e8d819" name="/Phix/CommandLineLib/DefinedArgTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d5d99391de371ff60fb2a1954ec920a1" name="/Phix/CommandLineLib/CommandLineParserTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="3e0653e7a8c29915082a48882137d8c3" name="/Phix/CommandLineLib/ParsedSwitchesTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="99ea6fa887366287f37651363f0c90b5" name="/Phix/CommandLineLib/DefinedSwitchTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="c4cb7a2668380d9650bae5cb5367dd69" name="/Phix/CommandLineLib/ParsedSwitchTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="cf70501ca9a4954ec3fe8080c1a0dc9c" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e27857c936b41bf12d0396f7882db1a9" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+	<max>3.999.9999</max>
+      </package>
+      <package>
+        <name>ValidationLib</name>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-13</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

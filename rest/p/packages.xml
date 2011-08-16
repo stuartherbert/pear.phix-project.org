@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <a xmlns="http://pear.php.net/dtd/rest.allpackages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.allpackages http://pear.php.net/dtd/rest.allpackages.xsd">
     <c>pear.phix-project.org</c>
+  <p>Autoloader</p>
+  <p>CommandLineLib</p>
+  <p>ComponentManager</p>
+  <p>ComponentManagerPhpDocbook</p>
+  <p>ComponentManagerPhpLibrary</p>
+  <p>ComponentManagerPhpWebapp</p>
+  <p>ComponentManagerShared</p>
+  <p>ConsoleDisplayLib</p>
+  <p>ExtenderLib</p>
   <p>PhpInfo</p>
+  <p>ValidationLib</p>
+  <p>phix</p>
 
 </a>

@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <l xmlns="http://pear.php.net/dtd/rest.categorypackages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackages http://pear.php.net/dtd/rest.categorypackages.xsd">
+  <p xlink:href="/rest/p/autoloader">Autoloader</p>
+  <p xlink:href="/rest/p/commandlinelib">CommandLineLib</p>
+  <p xlink:href="/rest/p/componentmanager">ComponentManager</p>
+  <p xlink:href="/rest/p/componentmanagerphpdocbook">ComponentManagerPhpDocbook</p>
+  <p xlink:href="/rest/p/componentmanagerphplibrary">ComponentManagerPhpLibrary</p>
+  <p xlink:href="/rest/p/componentmanagerphpwebapp">ComponentManagerPhpWebapp</p>
+  <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
+  <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
+  <p xlink:href="/rest/p/extenderlib">ExtenderLib</p>
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>
+  <p xlink:href="/rest/p/validationlib">ValidationLib</p>
+  <p xlink:href="/rest/p/phix">phix</p>
 
 </l>

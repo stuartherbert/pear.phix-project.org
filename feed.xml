@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-08-02T12:32:08+01:00</updated>
+    <updated>2011-08-16T14:50:49+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,162 @@
     </author>
 
     <entry>
+        <title>Autoloader 3.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/Autoloader-3.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/Autoloader-3.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T15:51:33+01:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+        </content>
+    </entry>    <entry>
+        <title>Autoloader 2.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/Autoloader-2.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/Autoloader-2.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T14:30:07+01:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+        </content>
+    </entry>    <entry>
+        <title>CommandLineLib 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/CommandLineLib-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/CommandLineLib-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T16:04:27+01:00</updated>
+        <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManager 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManager-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManager-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-03T01:03:40+01:00</updated>
+        <content>
+            
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpDocbook 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpDocbook-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpDocbook-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T23:56:47+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-03T01:05:35+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.3.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-1.3.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpLibrary-1.3.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T23:38:59+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpWebapp 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpWebapp-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpWebapp-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-03T00:13:32+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 2.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-08T09:12:39+01:00</updated>
+        <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T23:02:24+01:00</updated>
+        <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+        </content>
+    </entry>    <entry>
+        <title>ConsoleDisplayLib 3.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T16:34:09+01:00</updated>
+        <content>
+            
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
+        </content>
+    </entry>    <entry>
+        <title>ExtenderLib 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ExtenderLib-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ExtenderLib-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-03T01:28:02+01:00</updated>
+        <content>
+            
+    Description goes here
+  
+        </content>
+    </entry>    <entry>
         <title>PhpInfo 1.0.0 (stable)</title>
         <link href="http://pear.phix-project.org/get/PhpInfo-1.0.0.tgz" />
         <id>http://pear.phix-project.org/get/PhpInfo-1.0.0.tgz</id>
@@ -19,6 +175,32 @@
         <content>
             
     A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ValidationLib 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ValidationLib-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ValidationLib-2.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T16:03:31+01:00</updated>
+        <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix 0.13.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix-0.13.0.tgz" />
+        <id>http://pear.phix-project.org/get/phix-0.13.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-08-02T19:39:12+01:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
   
         </content>
     </entry>
