@@ -258,6 +258,32 @@
 
     </pi>    <pi>
         <p>
+            <n>DocbookTools</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>All rights reserved.</l>
+            <s>The Docbook files and tools needed for generic docbook-based docs</s>
+            <d>
+    This package contains the standard (ie unmodified) Docbook and related tools for use by conversion tools such as ComponentManager's PhpDocbook. These have been broken out into this package because they are large, and very seldom change.
+  </d>
+            <r xlink:href="/rest/r/docbooktools" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>ExtenderLib</n>
             <c>pear.phix-project.org</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -280,6 +306,32 @@
         <deps>
             <v>2.0.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>FopTools</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>All rights reserved.</l>
+            <s>The Apache FOP files and tools needed for generic docbook-based docs</s>
+            <d>
+    This package contains the standard (ie unmodified) Apache FOP and related tools for use by conversion tools such as ComponentManager's PhpDocbook. These have been broken out into this package because they are large, and very seldom change.
+  </d>
+            <r xlink:href="/rest/r/foptools" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
         </deps>
 
     </pi>    <pi>

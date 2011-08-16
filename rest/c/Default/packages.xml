@@ -8,7 +8,9 @@
   <p xlink:href="/rest/p/componentmanagerphpwebapp">ComponentManagerPhpWebapp</p>
   <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
   <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
+  <p xlink:href="/rest/p/docbooktools">DocbookTools</p>
   <p xlink:href="/rest/p/extenderlib">ExtenderLib</p>
+  <p xlink:href="/rest/p/foptools">FopTools</p>
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>
   <p xlink:href="/rest/p/validationlib">ValidationLib</p>
   <p xlink:href="/rest/p/phix">phix</p>
