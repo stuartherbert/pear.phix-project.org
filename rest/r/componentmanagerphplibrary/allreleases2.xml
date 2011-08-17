@@ -3,6 +3,11 @@
     <p>ComponentManagerPhpLibrary</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>2.0.3</v>
+        <s>stable</s>
+        <m>5.3.0</m>
+    </r>
+    <r>
         <v>2.0.2</v>
         <s>stable</s>
         <m>5.3.0</m>

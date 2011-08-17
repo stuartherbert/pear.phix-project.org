@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>ComponentManagerPhpDocbook</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>Supports creating and managing a php-docbook component</summary>
+  <description>
+    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-08-17</date>
+  <time>00:19:52</time>
+  <version>
+  <release>2.0.1</release>
+    <api>2.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="68bb35dd1ef065d902d98cf91b2fca8b" name="/php-docbook/tools/html-chunked.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="214a1c62a23c8d4fbd3c80e6eb404807" name="/php-docbook/tools/fo.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a4311347f259611089160ecbd67987ac" name="/php-docbook/tools/dblite/sdblite.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="67d1c836f0adfdde56384d032fa64241" name="/php-docbook/tools/dblite/doc/index.html" role="data">      </file>
+      <file baseinstalldir="/" md5sum="259569f56ad43abe1ca23765eacd0562" name="/php-docbook/tools/dblite/doc/db.dict" role="data">      </file>
+      <file baseinstalldir="/" md5sum="02118fcda3e706031ce5b3f9fbfaf211" name="/php-docbook/tools/dblite/doc/FAQ.html" role="data">      </file>
+      <file baseinstalldir="/" md5sum="935a178c7d4fed897e188c26e86520e1" name="/php-docbook/tools/dblite/doc/dblite.html" role="data">      </file>
+      <file baseinstalldir="/" md5sum="70abd28f3d9081e3fee05c18a80e1820" name="/php-docbook/tools/dblite/dblite_noents.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="872644a1f7fa45b41ca0945df39b532c" name="/php-docbook/tools/dblite/install" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d6de1492841589ee1d12c873c49c39af" name="/php-docbook/tools/dblite/test/lx/ch01.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="27f7739e825d634297f797bf0971d2de" name="/php-docbook/tools/dblite/test/lx/ch03.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="8fe4cfbc160efafd42b73676541fcb57" name="/php-docbook/tools/dblite/test/lx/ch00.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d0ac487ebea24e53e53751ff4b0908cf" name="/php-docbook/tools/dblite/test/lx/ch04.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="37588878bf0bbd481de3855ee80cdf3b" name="/php-docbook/tools/dblite/test/lx/ch07.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="082a0c63f36e02bd58d2b46fa1b24fe9" name="/php-docbook/tools/dblite/test/lx/ch06.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="714fa33fb975a94ca91026a2ad346cc5" name="/php-docbook/tools/dblite/test/lx/ch05.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="beebe9a057f0bab9c94a798aeb81ea24" name="/php-docbook/tools/dblite/test/lx/book.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="3b37bcd2c86be8ce4fa89d98133d09fe" name="/php-docbook/tools/dblite/test/lx/ch02.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="9f316281e1f6d0776e4d951c043d0d2d" name="/php-docbook/tools/dblite/dblite_safari.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a66200e676708fb9188e7b15b6e1b344" name="/php-docbook/tools/dblite/html.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="f81a7756b240e1ae6f4a91c1661e3aea" name="/php-docbook/tools/dblite/xsl/db2pod.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="16f5ad3e5c2e366771942fd9eec5c59c" name="/php-docbook/tools/dblite/xsl/chapter.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="2c4cef0dfc4fb6c8b6b1b4d6fbcfd894" name="/php-docbook/tools/dblite/xsl/bookpage.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="35a08cc3399052f369609be44d75b762" name="/php-docbook/tools/dblite/xsl/chapter2.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d2095609bcf6fec96cbc382882e5ff52" name="/php-docbook/tools/dblite/xsl/db2hbody.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="31699951ce1a0c33978d76ecfcfbb297" name="/php-docbook/tools/dblite/xsl/sect1.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d4b1079b1c0f0ae99e2f2121d3198192" name="/php-docbook/tools/dblite/xsl/db2htmlindex.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="8369533edaec4da21b438cafc2775c19" name="/php-docbook/tools/dblite/xsl/db2html.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="4de1c0738612936947ce56e3c74a3f12" name="/php-docbook/tools/dblite/xsl/db2h.xsl" role="data">      </file>
+      <file baseinstalldir="/" md5sum="982dad74727629ced82e5daa33ec9aab" name="/php-docbook/tools/dblite/MANIFEST" role="data">      </file>
+      <file baseinstalldir="/" md5sum="27f39d1439643785ae4234ea35b9d6bd" name="/php-docbook/tools/dblite/docbook41/docbookx.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="b2fad7fadc1f07bfe3da5ce393e1154c" name="/php-docbook/tools/dblite/docbook41/dbnotnx.mod" role="data">      </file>
+      <file baseinstalldir="/" md5sum="058692b84b3180ba0911eda94300122e" name="/php-docbook/tools/dblite/docbook41/dbgenent.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="cc2aa85572d7b15a9b20cda649fe86f2" name="/php-docbook/tools/dblite/docbook41/dbcentx.mod" role="data">      </file>
+      <file baseinstalldir="/" md5sum="6de2f93cd17ea5368ed30814bf266e76" name="/php-docbook/tools/dblite/docbook41/soextblx.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="664810d745c80955c6462f5e839d41ec" name="/php-docbook/tools/dblite/docbook41/ent/iso-grk2.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="0b3e67af38e5c402b5719a7e4ccd6132" name="/php-docbook/tools/dblite/docbook41/ent/iso-cyr1.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d988181b2fc0b3ffbf40dd09c9ba83b0" name="/php-docbook/tools/dblite/docbook41/ent/iso-amso.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="fb0e09fbea1fbacd761d08d64f1875a3" name="/php-docbook/tools/dblite/docbook41/ent/iso-amsb.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="523461827bec1006e1aaca1c16f10ee2" name="/php-docbook/tools/dblite/docbook41/ent/iso-lat2.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a6351b9eee7ff456983971ccaa07985a" name="/php-docbook/tools/dblite/docbook41/ent/iso-tech.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="4ee62c2f63687352f68c92c943e91040" name="/php-docbook/tools/dblite/docbook41/ent/iso-lat1.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="71f47bb5c42c19b174d2476da508504a" name="/php-docbook/tools/dblite/docbook41/ent/iso-grk4.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="89166ad76000993969c68240973e4c1c" name="/php-docbook/tools/dblite/docbook41/ent/iso-amsr.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="482ef91d4d95fd9001b5dd34325b490f" name="/php-docbook/tools/dblite/docbook41/ent/iso-pub.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="1fb06d14c74f729d045fd83a7bd2de03" name="/php-docbook/tools/dblite/docbook41/ent/iso-grk1.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="8b3be78185fa098ff2e3674c08a4e985" name="/php-docbook/tools/dblite/docbook41/ent/iso-num.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="ba1a9b9670425d98224cefc731cf632c" name="/php-docbook/tools/dblite/docbook41/ent/iso-dia.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="e59656cd77e75dfdfbbefaa810795c94" name="/php-docbook/tools/dblite/docbook41/ent/iso-cyr2.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d335361fa239f69cdc1a98f8eb08aa20" name="/php-docbook/tools/dblite/docbook41/ent/iso-amsc.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="f7e00bd3bbcd792360f8331d32865261" name="/php-docbook/tools/dblite/docbook41/ent/iso-grk3.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="3738b55364582967e39731b40ee0e45b" name="/php-docbook/tools/dblite/docbook41/ent/iso-box.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="35a840aff214a6d53587514ea964d95c" name="/php-docbook/tools/dblite/docbook41/ent/iso-amsn.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="02c711056938df7debfd05bfdac79791" name="/php-docbook/tools/dblite/docbook41/ent/iso-amsa.ent" role="data">      </file>
+      <file baseinstalldir="/" md5sum="3ecc5d4bb659ec930803d1c28244ab05" name="/php-docbook/tools/dblite/docbook41/dbhierx.mod" role="data">      </file>
+      <file baseinstalldir="/" md5sum="3e798abdcb10c6b444b524254f3fbcdd" name="/php-docbook/tools/dblite/docbook41/calstblx.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="fb5f9e3f6dcff94625b0efbb7330fde6" name="/php-docbook/tools/dblite/docbook41/dbpoolx.mod" role="data">      </file>
+      <file baseinstalldir="/" md5sum="431376002f0c92eb5b67978ff44df4ea" name="/php-docbook/tools/dblite/docbook41/docbook.cat" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a4c90aef7f06c6b921dbc0e9a92feacf" name="/php-docbook/tools/dblite/css/dblite.css" role="data">      </file>
+      <file baseinstalldir="/" md5sum="602262fa77e0d4609708727a39c018eb" name="/php-docbook/tools/dblite/CHANGES" role="data">      </file>
+      <file baseinstalldir="/" md5sum="b3607d30b6854f81b71151e1e1ca0f35" name="/php-docbook/tools/dblite/TODO" role="data">      </file>
+      <file baseinstalldir="/" md5sum="93c21bb25ea3f0ed94bbd6eb084a0b94" name="/php-docbook/tools/dblite/catalog" role="data">      </file>
+      <file baseinstalldir="/" md5sum="4f26fc9002744a27a2fcfa5d18b65e18" name="/php-docbook/tools/dblite/safari_future.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="f5bed28f71076e08554cb4c830879669" name="/php-docbook/tools/dblite/dblite.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="ecebf13593b76619986c5a0ac904c725" name="/php-docbook/tools/dblite/bin/db2html" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a1bb6caa4abb98be770d37b22ac26435" name="/php-docbook/tools/dblite/bin/xtrans" role="data">      </file>
+      <file baseinstalldir="/" md5sum="cc38bfc9f9478617ead4c72b2dac4e36" name="/php-docbook/tools/dblite/bin/xnocdata" role="data">      </file>
+      <file baseinstalldir="/" md5sum="ed56377d5131981f446a1cb9cad4910e" name="/php-docbook/tools/dblite/bin/xwf" role="data">      </file>
+      <file baseinstalldir="/" md5sum="0c5e79540505a14540524496f2f79ad4" name="/php-docbook/tools/dblite/bin/dbnormspace" role="data">      </file>
+      <file baseinstalldir="/" md5sum="0cfbf57d928c966891f49930ca1c2d14" name="/php-docbook/tools/dblite/bin/db2htmlindexproc" role="data">      </file>
+      <file baseinstalldir="/" md5sum="fa6946096b5f03b6b41380b9e6e48988" name="/php-docbook/tools/dblite/bin/db2htmlindex" role="data">      </file>
+      <file baseinstalldir="/" md5sum="f6f98b413c5d22b2ab34b614de276763" name="/php-docbook/tools/dblite/bin/dtdx2s" role="data">      </file>
+      <file baseinstalldir="/" md5sum="613f8d6e045ab7c9de52f84144899ac0" name="/php-docbook/tools/dblite/bin/db2h" role="data">      </file>
+      <file baseinstalldir="/" md5sum="7cdf43349da223bddbe654b1b4039e85" name="/php-docbook/tools/dblite/bin/xval" role="data">      </file>
+      <file baseinstalldir="/" md5sum="5ff9edb8d86099ce61ffe1557e42ae3d" name="/php-docbook/tools/dblite/README" role="data">      </file>
+      <file baseinstalldir="/" md5sum="15a1120c75f0081f2534ec42469fec30" name="/php-docbook/tools/dblite/dblite_htmlents.dtd" role="data">      </file>
+      <file baseinstalldir="/" md5sum="e043f3aa43a6ba1e5bbd8458c52559a4" name="/php-docbook/tools/scripts/templates/assertions.xml.en.in" role="data">      </file>
+      <file baseinstalldir="/" md5sum="aa7a8d68e980d3d2249f5dfd20215089" name="/php-docbook/tools/scripts/templates/page.html" role="data">      </file>
+      <file baseinstalldir="/" md5sum="802ff302e45383206f1b7655f2238747" name="/php-docbook/tools/scripts/templates/assertions.xml.ja.in" role="data">      </file>
+      <file baseinstalldir="/" md5sum="a6c9c5febcbcedd6c1e806ebdd0b78ee" name="/php-docbook/tools/scripts/HTMLFilterIterator.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="265bd139d1df8eb6d3547bf42ada7afe" name="/php-docbook/tools/scripts/highlight.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="017c766291d23d3c07f9267180239f50" name="/php-docbook/tools/scripts/webify.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="b53b73394b989055816c6e9b2ece2db4" name="/php-docbook/tools/scripts/assertions.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="4a6460986ee5d3a4517932190d622c24" name="/php-docbook/tools/scripts/HighlightPDF.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="e881e073ac62b70034a0414fdb96fdb3" name="/php-docbook/tools/docbook.css" role="data">      </file>
+      <file baseinstalldir="/" md5sum="62cd626af6140fdcf893151ebedacf0c" name="/php-docbook/build.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="584e14bf48398b16b842e75668d84ee8" name="/php-docbook/.hgignore" role="data">      </file>
+      <file baseinstalldir="/" md5sum="5cb653f68822ff6ea43478a9fea12aed" name="/php-docbook/build.local.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/php-docbook/README.md" role="data">      </file>
+      <file baseinstalldir="/" md5sum="cc1879dd866f0a7b31202b9a342146b1" name="/php-docbook/build.properties" role="data">      </file>
+      <file baseinstalldir="/" md5sum="6f03dccdc9fbe355030d44bc37e31945" name="/php-docbook/.gitignore" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/php-docbook/LICENSE.txt" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d79e6ab3a5be1b4990bf6fa808a9fa58" name="/Phix_Project/ComponentManager/Entities/DocbookComponentFolder.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="4bd169d9fbf8c7527b97e5e964d6c893" name="/Phix_Project/ComponentManager/PhixCommands/PhpDocbookVersion.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7f4564f97cff56c12d3e9e5f3083e6a0" name="/Phix_Project/ComponentManager/PhixCommands/PhpDocbookInit.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="22f438ba340d60b73d7c543e64155389" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="0593a14f5ea5e9addf8ab4375dfd99f2" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.3</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+	      <max>3.999.9999</max>
+      </package>
+      <package>
+        <name>ComponentManagerShared</name>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>phix</name>
+        <channel>pear.phix-project.org</channel>
+        <min>0.13.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <package>
+        <name>DocbookTools</name>
+        <channel>pear.phix-project.org</channel>
+        <min>1.0.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <package>
+        <name>FopTools</name>
+        <channel>pear.phix-project.org</channel>
+        <min>1.0.0</min>
+        <max>1.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-21</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

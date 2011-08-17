@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>phix4componentdev</n>
+<c>pear.phix-project.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD license.</l>
+<s>phix and all dependencies required for creating and maintaining PHP components</s>
+<d>
+    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
+  </d>
+<r xlink:href="/rest/r/phix4componentdev" />
+</p>
