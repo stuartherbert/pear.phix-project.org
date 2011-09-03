@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-09-03T23:07:41+01:00</updated>
+    <updated>2011-09-03T23:53:32+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -253,6 +253,19 @@
         <content>
             
     This package contains the standard (ie unmodified) Docbook and related tools for use by conversion tools such as ComponentManager's PhpDocbook. These have been broken out into this package because they are large, and very seldom change.
+  
+        </content>
+    </entry>    <entry>
+        <title>ExceptionsLib 1.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ExceptionsLib-1.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/ExceptionsLib-1.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-09-03T23:53:32+01:00</updated>
+        <content>
+            
+    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
   
         </content>
     </entry>    <entry>
