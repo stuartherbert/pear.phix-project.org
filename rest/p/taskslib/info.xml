@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>TasksLib</n>
+<c>pear.phix-project.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD license</l>
+<s>A library of classes for automating repetitive tasks.</s>
+<d>
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  </d>
+<r xlink:href="/rest/r/taskslib" />
+</p>
