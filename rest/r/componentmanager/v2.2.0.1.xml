@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/componentmanager">ComponentManager</p>
+    <c>pear.phix-project.org</c>
+    <v>2.0.1</v>
+    <a>2.0</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>New BSD license</l>
+    <m>stuart</m>
+    <s>ComponentManager allows you to create and maintain a variety of components</s>
+    <d>
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  </d>
+    <da>2011-09-14 00:39:05</da>
+    <n>
+    No notes.
+  </n>
+    <f>3428</f>
+    <g>http://pear.phix-project.org/get/ComponentManager-2.0.1</g>
+    <x xlink:href="package.2.0.1.xml"/>
+</r>
