@@ -4,15 +4,12 @@
   <p>Autoloader</p>
   <p>CommandLineLib</p>
   <p>ComponentManager</p>
-  <p>ComponentManagerPhpDocbook</p>
   <p>ComponentManagerPhpLibrary</p>
   <p>ComponentManagerPhpWebapp</p>
   <p>ComponentManagerShared</p>
   <p>ConsoleDisplayLib</p>
-  <p>DocbookTools</p>
   <p>ExceptionsLib</p>
   <p>ExtenderLib</p>
-  <p>FopTools</p>
   <p>PhpInfo</p>
   <p>TasksLib</p>
   <p>ValidationLib</p>

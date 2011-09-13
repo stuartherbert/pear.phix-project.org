@@ -3,15 +3,12 @@
   <p xlink:href="/rest/p/autoloader">Autoloader</p>
   <p xlink:href="/rest/p/commandlinelib">CommandLineLib</p>
   <p xlink:href="/rest/p/componentmanager">ComponentManager</p>
-  <p xlink:href="/rest/p/componentmanagerphpdocbook">ComponentManagerPhpDocbook</p>
   <p xlink:href="/rest/p/componentmanagerphplibrary">ComponentManagerPhpLibrary</p>
   <p xlink:href="/rest/p/componentmanagerphpwebapp">ComponentManagerPhpWebapp</p>
   <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
   <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
-  <p xlink:href="/rest/p/docbooktools">DocbookTools</p>
   <p xlink:href="/rest/p/exceptionslib">ExceptionsLib</p>
   <p xlink:href="/rest/p/extenderlib">ExtenderLib</p>
-  <p xlink:href="/rest/p/foptools">FopTools</p>
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>
   <p xlink:href="/rest/p/taskslib">TasksLib</p>
   <p xlink:href="/rest/p/validationlib">ValidationLib</p>

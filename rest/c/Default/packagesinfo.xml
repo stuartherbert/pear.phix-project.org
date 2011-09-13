@@ -18,19 +18,11 @@
                 <v>3.0.0</v>
                 <s>stable</s>
             </r>
-            <r>
-                <v>2.0.1</v>
-                <s>stable</s>
-            </r>
 
         </a>
 
         <deps>
             <v>3.0.0</v>
-            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.1</v>
             <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}}}</d>
         </deps>
 
@@ -88,40 +80,6 @@
 
     </pi>    <pi>
         <p>
-            <n>ComponentManagerPhpDocbook</n>
-            <c>pear.phix-project.org</c>
-            <ca xlink:href="/rest/c/Default">Default</ca>
-            <l>New BSD license</l>
-            <s>Supports creating and managing a php-docbook component</s>
-            <d>
-    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
-  </d>
-            <r xlink:href="/rest/r/componentmanagerphpdocbook" />
-        </p>
-
-        <a>
-            <r>
-                <v>2.0.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.0</v>
-                <s>stable</s>
-            </r>
-
-        </a>
-
-        <deps>
-            <v>2.0.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:5:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}i:3;a:4:{s:4:"name";s:12:"DocbookTools";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:4;a:4:{s:4:"name";s:8:"FopTools";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-
-    </pi>    <pi>
-        <p>
             <n>ComponentManagerPhpLibrary</n>
             <c>pear.phix-project.org</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -138,68 +96,12 @@
                 <v>2.1.2</v>
                 <s>stable</s>
             </r>
-            <r>
-                <v>2.1.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.1.0</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.3</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.2</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.0</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>1.3.0</v>
-                <s>stable</s>
-            </r>
 
         </a>
 
         <deps>
             <v>2.1.2</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.1.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.1.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.1.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.1.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.1.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.3</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.1.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.2</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>1.3.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
         </deps>
 
     </pi>    <pi>
@@ -246,44 +148,12 @@
                 <v>2.1.1</v>
                 <s>stable</s>
             </r>
-            <r>
-                <v>2.1.0</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.2</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>2.0.0</v>
-                <s>stable</s>
-            </r>
 
         </a>
 
         <deps>
             <v>2.1.1</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:8:"TasksLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.13.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.1.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.2</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
-        </deps>
-        <deps>
-            <v>2.0.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
         </deps>
 
     </pi>    <pi>
@@ -314,32 +184,6 @@
 
     </pi>    <pi>
         <p>
-            <n>DocbookTools</n>
-            <c>pear.phix-project.org</c>
-            <ca xlink:href="/rest/c/Default">Default</ca>
-            <l>All rights reserved.</l>
-            <s>The Docbook files and tools needed for generic docbook-based docs</s>
-            <d>
-    This package contains the standard (ie unmodified) Docbook and related tools for use by conversion tools such as ComponentManager's PhpDocbook. These have been broken out into this package because they are large, and very seldom change.
-  </d>
-            <r xlink:href="/rest/r/docbooktools" />
-        </p>
-
-        <a>
-            <r>
-                <v>1.0.0</v>
-                <s>stable</s>
-            </r>
-
-        </a>
-
-        <deps>
-            <v>1.0.0</v>
-            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
-        </deps>
-
-    </pi>    <pi>
-        <p>
             <n>ExceptionsLib</n>
             <c>pear.phix-project.org</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -356,52 +200,12 @@
                 <v>1.1.2</v>
                 <s>stable</s>
             </r>
-            <r>
-                <v>1.1.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>1.1.0</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>1.0.2</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>1.0.1</v>
-                <s>stable</s>
-            </r>
-            <r>
-                <v>1.0.0</v>
-                <s>stable</s>
-            </r>
 
         </a>
 
         <deps>
             <v>1.1.2</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-        <deps>
-            <v>1.1.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-        <deps>
-            <v>1.1.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-        <deps>
-            <v>1.0.2</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-        <deps>
-            <v>1.0.1</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-        <deps>
-            <v>1.0.0</v>
-            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.3";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
         </deps>
 
     </pi>    <pi>
@@ -428,32 +232,6 @@
         <deps>
             <v>2.0.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
-        </deps>
-
-    </pi>    <pi>
-        <p>
-            <n>FopTools</n>
-            <c>pear.phix-project.org</c>
-            <ca xlink:href="/rest/c/Default">Default</ca>
-            <l>All rights reserved.</l>
-            <s>The Apache FOP files and tools needed for generic docbook-based docs</s>
-            <d>
-    This package contains the standard (ie unmodified) Apache FOP and related tools for use by conversion tools such as ComponentManager's PhpDocbook. These have been broken out into this package because they are large, and very seldom change.
-  </d>
-            <r xlink:href="/rest/r/foptools" />
-        </p>
-
-        <a>
-            <r>
-                <v>1.0.0</v>
-                <s>stable</s>
-            </r>
-
-        </a>
-
-        <deps>
-            <v>1.0.0</v>
-            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
         </deps>
 
     </pi>    <pi>
