@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-09-14T01:05:33+01:00</updated>
+    <updated>2011-09-17T21:21:43+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -178,6 +178,19 @@
   
         </content>
     </entry>    <entry>
+        <title>phix 0.13.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix-0.13.2.tgz" />
+        <id>http://pear.phix-project.org/get/phix-0.13.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-09-17T21:21:42+01:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
         <title>phix 0.13.1 (stable)</title>
         <link href="http://pear.phix-project.org/get/phix-0.13.1.tgz" />
         <id>http://pear.phix-project.org/get/phix-0.13.1.tgz</id>
@@ -201,6 +214,19 @@
         <content>
             
     A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix4componentdev 0.13.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz" />
+        <id>http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-09-17T21:06:40+01:00</updated>
+        <content>
+            
+    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
   
         </content>
     </entry>    <entry>
