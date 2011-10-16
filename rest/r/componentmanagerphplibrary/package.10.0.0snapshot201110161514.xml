@@ -15,11 +15,11 @@
     <email>stuart@stuartherbert.com</email>
     <active>yes</active>
   </lead>
-  <date>2011-10-10</date>
-  <time>18:17:34</time>
+  <date>2011-10-16</date>
+  <time>15:14:38</time>
   <version>
-    <release>2.2.0snapshot201110101817</release>
-    <api>2.2</api>
+    <release>10.0.0snapshot201110161514</release>
+    <api>10.0</api>
   </version>
   <stability>
     <release>snapshot</release>
@@ -32,7 +32,7 @@
   <contents>
     <dir baseinstalldir="/" name="/">
       <file baseinstalldir="/" md5sum="9b4bf1e01a93079faed7164a3a03305f" name="/php-library/bootstrap.php" role="data">      </file>
-      <file baseinstalldir="/" md5sum="e933ee0dc497ee57f57a3dd4389926d2" name="/php-library/build.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="4bcae39cdac0650646d3a64b745a8195" name="/php-library/build.xml" role="data">      </file>
       <file baseinstalldir="/" md5sum="584e14bf48398b16b842e75668d84ee8" name="/php-library/.hgignore" role="data">      </file>
       <file baseinstalldir="/" md5sum="e423136300f120b6859608efda89a709" name="/php-library/build.local.xml" role="data">      </file>
       <file baseinstalldir="/" md5sum="319c51d26e43db472a773765dc9b0fbd" name="/php-library/README.md" role="data">      </file>
@@ -42,7 +42,7 @@
       <file baseinstalldir="/" md5sum="d52858ed7b13fe720b3f205b24e0b60d" name="/php-library/package-xml.xml" role="data">      </file>
       <file baseinstalldir="/" md5sum="6f03dccdc9fbe355030d44bc37e31945" name="/php-library/.gitignore" role="data">      </file>
       <file baseinstalldir="/" md5sum="901ec4bb8bf615b407cf4d27dbb86706" name="/php-library/LICENSE.txt" role="data">      </file>
-      <file baseinstalldir="/" md5sum="c84722fb1c32a18bebc4b3b5b4f7c9dc" name="/Phix_Project/ComponentManager/Entities/LibraryComponentFolder.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="a8279485cbd32825b8f8e0b564fadffd" name="/Phix_Project/ComponentManager/Entities/LibraryComponentFolder.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
