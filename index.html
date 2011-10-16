@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Phix Project PEAR channel</title>
-    <link rel="stylesheet" type="text/css" href="http://pear.phix-project.org/pirum.css" />
+    <link rel="stylesheet" type="text/css" href="pirum.css" />
     <link rel="alternate" type="application/rss+xml" href="http://pear.phix-project.org/feed.xml" title="Phix Project PEAR channel Latest Releases" />
 </head>
 <body>
@@ -13,8 +13,6 @@
         </div>
         <div id="bd">
             <div class="yui-g">
-                <h2>Using this Channel</h2>
-                <p>This channel is to be used with the PEAR installer.</p>
                 <em>Registering</em> the channel:
                 <pre><code>pear channel-discover pear.phix-project.org</code></pre>
                 <em>Listing</em> available packages:
@@ -27,194 +25,174 @@ pear install phix/package_name-beta</code></pre>
                 <em>Receiving</em> updates via a <a href="http://pear.phix-project.org/feed.xml">feed</a>:
                 <pre><code>http://pear.phix-project.org/feed.xml</code></pre>
 
-                <h2>Packages</h2>
-
                                     <h3>Autoloader<small> - Simple PHP library for autoloading classes</small></h3>
                     <p>
     Autoloader is a PSR0-compatible autoloader.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: Autoloader</li>
-                        <li><strong>License</strong>: All rights reserved. Released under the BSD license.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/Autoloader-3.0.0.tgz">3.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/Autoloader</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/Autoloader</strong></td></tr>
+                                                <tr><th>License</th><td>All rights reserved. Released under the BSD license.</td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/Autoloader-3.0.0.tgz">3.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>CommandLineLib<small> - A simple-to-use command line parser</small></h3>
                     <p>
     CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: CommandLineLib</li>
-                        <li><strong>License</strong>: New BSD license.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/CommandLineLib-2.0.0.tgz">2.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/CommandLineLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/CommandLineLib</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license.</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/ValidationLib                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/CommandLineLib-2.0.0.tgz">2.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ComponentManager<small> - ComponentManager allows you to create and maintain a variety of components</small></h3>
                     <p>
     ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ComponentManager</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ComponentManager-2.0.1.tgz">2.0.1</a> (stable), <a href="http://pear.phix-project.org/get/ComponentManager-2.0.0.tgz">2.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ComponentManager</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ComponentManager</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/ComponentManagerPhpLibrary,                                                                     pear.phix-project.org/ComponentManagerShared,                                                                     pear.phix-project.org/phix                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ComponentManager-2.0.1.tgz">2.0.1</a> <small>(stable)</small>, <a href="http://pear.phix-project.org/get/ComponentManager-2.0.0.tgz">2.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ComponentManagerPhpLibrary<small> - Supports creating and managing a php-library component</small></h3>
                     <p>
     ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ComponentManagerPhpLibrary</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.1.2.tgz">2.1.2</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ComponentManagerPhpLibrary</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ComponentManagerPhpLibrary</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/ComponentManagerShared,                                                                     pear.phix-project.org/phix                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.2.0snapshot201110101817.tgz">2.2.0snapshot201110101817</a> <small>(snapshot)</small>, <a href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.1.2.tgz">2.1.2</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ComponentManagerPhpWebapp<small> - Supports creating and managing a php-webapp component</small></h3>
                     <p>
     ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ComponentManagerPhpWebapp</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ComponentManagerPhpWebapp-2.0.0.tgz">2.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ComponentManagerPhpWebapp</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ComponentManagerPhpWebapp</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/ComponentManagerShared,                                                                     pear.phix-project.org/phix                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ComponentManagerPhpWebapp-2.0.0.tgz">2.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ComponentManagerShared<small> - Shared code for the management of different kinds of components</small></h3>
                     <p>
     ComponentManager-Shared holds the shared code used in the management of different kinds of components.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ComponentManagerShared</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ComponentManagerShared-2.1.1.tgz">2.1.1</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ComponentManagerShared</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ComponentManagerShared</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/TasksLib,                                                                     pear.phix-project.org/phix                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ComponentManagerShared-2.2.0snapshot201110161454.tgz">2.2.0snapshot201110161454</a> <small>(snapshot)</small>, <a href="http://pear.phix-project.org/get/ComponentManagerShared-2.1.1.tgz">2.1.1</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ConsoleDisplayLib<small> - A simple library for CLI apps to output to the console</small></h3>
                     <p>
     ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ConsoleDisplayLib</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz">3.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ConsoleDisplayLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ConsoleDisplayLib</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz">3.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ExceptionsLib<small> - A simple component to simplify PHP error handling</small></h3>
                     <p>
     ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ExceptionsLib</li>
-                        <li><strong>License</strong>: New BSD License.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ExceptionsLib-1.1.2.tgz">1.1.2</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ExceptionsLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ExceptionsLib</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD License.</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ExceptionsLib-1.1.2.tgz">1.1.2</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ExtenderLib<small> - A simple library to help your app find extensions at runtime</small></h3>
                     <p>
     Description goes here
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ExtenderLib</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ExtenderLib-2.0.0.tgz">2.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ExtenderLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ExtenderLib</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ExtenderLib-2.0.0.tgz">2.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>PhpInfo<small> - A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.</small></h3>
                     <p>
     A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: PhpInfo</li>
-                        <li><strong>License</strong>: New BSD license.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/PhpInfo-1.0.0.tgz">1.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/PhpInfo</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/PhpInfo</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license.</td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/PhpInfo-1.0.0.tgz">1.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>TasksLib<small> - A library of classes for automating repetitive tasks.</small></h3>
                     <p>
     TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: TasksLib</li>
-                        <li><strong>License</strong>: New BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/TasksLib-1.0.0.tgz">1.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/TasksLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/TasksLib</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/ExceptionsLib                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/TasksLib-1.0.0.tgz">1.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>ValidationLib<small> - Lightweight library of reusable data validation tools</small></h3>
                     <p>
     Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: ValidationLib</li>
-                        <li><strong>License</strong>: BSD license</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/ValidationLib-2.0.0.tgz">2.0.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/ValidationLib</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/ValidationLib</strong></td></tr>
+                                                <tr><th>License</th><td>BSD license</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/ValidationLib-2.0.0.tgz">2.0.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>phix<small> - Framework-agnostic command-line util for PHP development</small></h3>
                     <p>
     A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: phix</li>
-                        <li><strong>License</strong>: All rights reserved.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/phix-0.13.2.tgz">0.13.2</a> (stable), <a href="http://pear.phix-project.org/get/phix-0.13.1.tgz">0.13.1</a> (stable), <a href="http://pear.phix-project.org/get/phix-0.13.0.tgz">0.13.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/phix</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/phix</strong></td></tr>
+                                                <tr><th>License</th><td>All rights reserved.</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/Autoloader,                                                                     pear.phix-project.org/CommandLineLib,                                                                     pear.phix-project.org/ConsoleDisplayLib,                                                                     pear.phix-project.org/ValidationLib                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/phix-0.14.0snapshot201110161456.tgz">0.14.0snapshot201110161456</a> <small>(snapshot)</small>, <a href="http://pear.phix-project.org/get/phix-0.13.2.tgz">0.13.2</a> <small>(stable)</small>, <a href="http://pear.phix-project.org/get/phix-0.13.1.tgz">0.13.1</a> <small>(stable)</small>, <a href="http://pear.phix-project.org/get/phix-0.13.0.tgz">0.13.0</a> <small>(stable)</small></td></tr>
+                    </table>
                                     <h3>phix4componentdev<small> - phix and all dependencies required for creating and maintaining PHP components</small></h3>
                     <p>
     phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
   </p>
-                    <ul>
-                        <li><strong>Package name</strong>: phix4componentdev</li>
-                        <li><strong>License</strong>: New BSD license.</li>
-                                                <li><strong>Maintainers</strong>: Stuart Herbert (as lead)</li>
-                                                <li><strong>Releases</strong>: <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz">0.13.2</a> (stable), <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.1.tgz">0.13.1</a> (stable), <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.0.tgz">0.13.0</a> (stable)</li>
-                        <li><strong>Install command</strong>: pear install phix/phix4componentdev</li>
-                    </ul>
-
-                    <hr />
+                    <table>
+                        <tr><th>Install command</th><td><strong>pear install phix/phix4componentdev</strong></td></tr>
+                                                <tr><th>License</th><td>New BSD license.</td></tr>
+                                                    <tr><th>Dependencies</th><td>
+                                                                    pear.phix-project.org/ComponentManagerPhpLibrary,                                                                     pear.phpunit.de/PHPUnit,                                                                     pear.phing.info/phing,                                                                     pear.pdepend.org/PHP_Depend,                                                                     pear.phpmd.org/PHP_PMD,                                                                     pear.php.net/PhpDocumentor,                                                                     pear.phpunit.de/phpcpd,                                                                     pear.php.net/PHP_CodeSniffer,                                                                     pear.phpunit.de/PHP_CodeBrowser,                                                                     pear.pirum-project.org/Pirum,                                                                     pear.phix-project.org/phix                                                            </td></tr>
+                                                                        <tr><th>Maintainers</th><td>Stuart Herbert <small>(as lead)</small></td></tr>
+                                                <tr><th>Releases</th><td><a href="http://pear.phix-project.org/get/phix4componentdev-0.14.0snapshot201110161456.tgz">0.14.0snapshot201110161456</a> <small>(snapshot)</small>, <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz">0.13.2</a> <small>(stable)</small>, <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.1.tgz">0.13.1</a> <small>(stable)</small>, <a href="http://pear.phix-project.org/get/phix4componentdev-0.13.0.tgz">0.13.0</a> <small>(stable)</small></td></tr>
+                    </table>
                             </div>
         </div>
         <div id="ft">
-            <p><small>The <em>pear.phix-project.org</em> PEAR Channel Server is proudly powered by <a href="http://www.pirum-project.org/">Pirum</a> 1.0.2</small></p>
+            <p><small>The <em>pear.phix-project.org</em> PEAR Channel Server is proudly powered by <a href="http://pirum.sensiolabs.org/">Pirum</a> 1.0.4</small></p>
         </div>
     </div>
 </body>

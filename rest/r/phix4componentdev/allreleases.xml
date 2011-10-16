@@ -3,6 +3,10 @@
     <p>phix4componentdev</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>0.14.0snapshot201110161456</v>
+        <s>snapshot</s>
+    </r>
+    <r>
         <v>0.13.2</v>
         <s>stable</s>
     </r>

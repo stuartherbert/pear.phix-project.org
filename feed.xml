@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-09-17T21:21:43+01:00</updated>
+    <updated>2011-10-16T14:56:52+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -18,7 +18,7 @@
         <updated>2011-08-02T15:51:33+01:00</updated>
         <content>
             
-    Autoloader is a PSR0-compatible autoloader.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -31,7 +31,7 @@
         <updated>2011-08-02T16:04:27+01:00</updated>
         <content>
             
-    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -44,7 +44,7 @@
         <updated>2011-09-14T00:39:05+01:00</updated>
         <content>
             
-    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -57,7 +57,20 @@
         <updated>2011-08-03T01:03:40+01:00</updated>
         <content>
             
-    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 2.2.0snapshot201110101817 (snapshot)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.2.0snapshot201110101817.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpLibrary-2.2.0snapshot201110101817.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-10-10T18:17:34+01:00</updated>
+        <content>
+            
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -70,7 +83,7 @@
         <updated>2011-09-12T22:12:51+01:00</updated>
         <content>
             
-    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -83,7 +96,20 @@
         <updated>2011-08-03T00:13:32+01:00</updated>
         <content>
             
-    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 2.2.0snapshot201110161454 (snapshot)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.2.0snapshot201110161454.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.2.0snapshot201110161454.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-10-16T14:54:54+01:00</updated>
+        <content>
+            
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -96,7 +122,7 @@
         <updated>2011-09-12T21:52:45+01:00</updated>
         <content>
             
-    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -109,7 +135,7 @@
         <updated>2011-08-02T16:34:09+01:00</updated>
         <content>
             
-    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -122,7 +148,7 @@
         <updated>2011-09-11T16:12:11+01:00</updated>
         <content>
             
-    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -135,7 +161,7 @@
         <updated>2011-08-03T01:28:02+01:00</updated>
         <content>
             
-    Description goes here
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -148,7 +174,7 @@
         <updated>2011-08-02T12:32:08+01:00</updated>
         <content>
             
-    A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -161,7 +187,7 @@
         <updated>2011-09-12T21:41:59+01:00</updated>
         <content>
             
-    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -174,7 +200,20 @@
         <updated>2011-08-02T16:03:31+01:00</updated>
         <content>
             
-    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix 0.14.0snapshot201110161456 (snapshot)</title>
+        <link href="http://pear.phix-project.org/get/phix-0.14.0snapshot201110161456.tgz" />
+        <id>http://pear.phix-project.org/get/phix-0.14.0snapshot201110161456.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-10-16T14:56:15+01:00</updated>
+        <content>
+            
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -187,7 +226,7 @@
         <updated>2011-09-17T21:21:42+01:00</updated>
         <content>
             
-    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -200,7 +239,7 @@
         <updated>2011-09-14T00:36:55+01:00</updated>
         <content>
             
-    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -213,7 +252,20 @@
         <updated>2011-08-02T19:39:12+01:00</updated>
         <content>
             
-    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix4componentdev 0.14.0snapshot201110161456 (snapshot)</title>
+        <link href="http://pear.phix-project.org/get/phix4componentdev-0.14.0snapshot201110161456.tgz" />
+        <id>http://pear.phix-project.org/get/phix4componentdev-0.14.0snapshot201110161456.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-10-16T14:56:52+01:00</updated>
+        <content>
+            
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -226,7 +278,7 @@
         <updated>2011-09-17T21:06:40+01:00</updated>
         <content>
             
-    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -239,7 +291,7 @@
         <updated>2011-09-14T01:05:33+01:00</updated>
         <content>
             
-    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
+    No notes.
   
         </content>
     </entry>    <entry>
@@ -252,7 +304,7 @@
         <updated>2011-08-17T01:16:16+01:00</updated>
         <content>
             
-    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
+    No notes.
   
         </content>
     </entry>
