@@ -12,14 +12,14 @@
     <email>stuart@stuartherbert.com</email>
     <active>yes</active>
   </lead>
-  <date>2011-10-22</date>
-  <time>23:10:20</time>
+  <date>2011-10-23</date>
+  <time>00:20:33</time>
   <version>
-  <release>1.1.0snapshot201110222310</release>
+  <release>1.1.0</release>
     <api>1.1</api>
   </version>
   <stability>
-    <release>snapshot</release>
+    <release>stable</release>
     <api>stable</api>
   </stability>
   <license>New BSD license</license>

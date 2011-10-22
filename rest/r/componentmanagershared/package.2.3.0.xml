@@ -12,14 +12,14 @@
     <email>stuart@stuartherbert.com</email>
     <active>yes</active>
   </lead>
-  <date>2011-10-22</date>
-  <time>23:23:04</time>
+  <date>2011-10-23</date>
+  <time>00:21:02</time>
   <version>
-  <release>2.3.0snapshot201110222323</release>
+  <release>2.3.0</release>
     <api>2.3</api>
   </version>
   <stability>
-    <release>snapshot</release>
+    <release>stable</release>
     <api>stable</api>
   </stability>
   <license>New BSD license</license>
@@ -40,7 +40,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="4c92f41d782aae84662e84ca67526afa" name="/Phix_Project/ComponentManager/PhixCommands/ComponentCommandBase.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="0c92212cd89c6fc68c6692336f73c7fa" name="/Phix_Project/ComponentManager/PhixCommands/ComponentCommandBase.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -73,7 +73,7 @@
         <min>5.3.0</min>
       </php>
       <pearinstaller>
-        <min>1.9.3</min>
+        <min>1.9.4</min>
       </pearinstaller>
       <package>
         <name>Autoloader</name>
@@ -84,7 +84,7 @@
       <package>
         <name>TasksLib</name>
         <channel>pear.phix-project.org</channel>
-        <min>1.0.0</min>
+        <min>1.1.0</min>
         <max>1.999.9999</max>
       </package>
       <package>

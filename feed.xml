@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-10-23T00:12:16+01:00</updated>
+    <updated>2011-10-23T00:21:02+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -113,13 +113,13 @@
   
         </content>
     </entry>    <entry>
-        <title>ComponentManagerShared 2.3.0snapshot201110222323 (snapshot)</title>
-        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.3.0snapshot201110222323.tgz" />
-        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.3.0snapshot201110222323.tgz</id>
+        <title>ComponentManagerShared 2.3.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.3.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.3.0.tgz</id>
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T23:23:04+01:00</updated>
+        <updated>2011-10-23T00:21:02+01:00</updated>
         <content>
             
     No notes.
@@ -217,13 +217,13 @@
   
         </content>
     </entry>    <entry>
-        <title>TasksLib 1.1.0snapshot201110222310 (snapshot)</title>
-        <link href="http://pear.phix-project.org/get/TasksLib-1.1.0snapshot201110222310.tgz" />
-        <id>http://pear.phix-project.org/get/TasksLib-1.1.0snapshot201110222310.tgz</id>
+        <title>TasksLib 1.1.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/TasksLib-1.1.0.tgz" />
+        <id>http://pear.phix-project.org/get/TasksLib-1.1.0.tgz</id>
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T23:10:20+01:00</updated>
+        <updated>2011-10-23T00:20:33+01:00</updated>
         <content>
             
     No notes.
