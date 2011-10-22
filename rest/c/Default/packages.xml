@@ -7,6 +7,7 @@
   <p xlink:href="/rest/p/componentmanagerphpwebapp">ComponentManagerPhpWebapp</p>
   <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
   <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
+  <p xlink:href="/rest/p/contractlib">ContractLib</p>
   <p xlink:href="/rest/p/exceptionslib">ExceptionsLib</p>
   <p xlink:href="/rest/p/extenderlib">ExtenderLib</p>
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>ComponentManagerPhpLibrary</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>Supports creating and managing a php-library component</summary>
+  <description>
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-10-22</date>
+  <time>20:57:58</time>
+  <version>
+    <release>10.0.0</release>
+    <api>10.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="9b4bf1e01a93079faed7164a3a03305f" name="/php-library/bootstrap.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="7d503337f62d803055216fa26d25f872" name="/php-library/build.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="584e14bf48398b16b842e75668d84ee8" name="/php-library/.hgignore" role="data">      </file>
+      <file baseinstalldir="/" md5sum="e3682312031753e2c135eea69b703af1" name="/php-library/build.local.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="319c51d26e43db472a773765dc9b0fbd" name="/php-library/README.md" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/php-library/dummy.php" role="data">      </file>
+      <file baseinstalldir="/" md5sum="32eeecfcb95eb236a6f152b83df2a97c" name="/php-library/phpunit.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="c75f8db286d388df97cef7eeaade5eb2" name="/php-library/build.properties" role="data">      </file>
+      <file baseinstalldir="/" md5sum="d52858ed7b13fe720b3f205b24e0b60d" name="/php-library/package-xml.xml" role="data">      </file>
+      <file baseinstalldir="/" md5sum="6f03dccdc9fbe355030d44bc37e31945" name="/php-library/.gitignore" role="data">      </file>
+      <file baseinstalldir="/" md5sum="901ec4bb8bf615b407cf4d27dbb86706" name="/php-library/LICENSE.txt" role="data">      </file>
+      <file baseinstalldir="/" md5sum="eea3250861d03a97595413ff1d18d399" name="/Phix_Project/ComponentManager/Entities/LibraryComponentFolder.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="2514d3eb789ddd49e578d8b50116d204" name="/Phix_Project/ComponentManager/PhixCommands/PhpLibraryUpgrade.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8a5909c042ee72617347aa5356a7228b" name="/Phix_Project/ComponentManager/PhixCommands/PhpLibraryVersion.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="3cbc1594b370f51a7470bba6b76647a2" name="/Phix_Project/ComponentManager/PhixCommands/PhpLibraryStatus.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="4cfab2ef5f75c935097a286edda993f4" name="/Phix_Project/ComponentManager/PhixCommands/PhpLibraryInit.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f09ecdf23ee866f250f707c06324a7f3" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e27857c936b41bf12d0396f7882db1a9" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.4</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+        <max>3.999.9999</max>
+      </package>
+      <package>
+        <name>ComponentManagerShared</name>
+        <channel>pear.phix-project.org</channel>
+        <min>2.2.0snapshot</min>
+        <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>phix</name>
+        <channel>pear.phix-project.org</channel>
+        <min>0.13.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <package>
+        <name>ValidationLib</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+        <max>3.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-21</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
