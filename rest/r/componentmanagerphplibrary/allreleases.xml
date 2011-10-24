@@ -3,6 +3,10 @@
     <p>ComponentManagerPhpLibrary</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>10.0.2</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>10.0.1</v>
         <s>stable</s>
     </r>
