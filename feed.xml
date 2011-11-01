@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-10-24T21:45:26+01:00</updated>
+    <updated>2011-11-01T23:18:08+00:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -15,7 +15,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-02T15:51:33+01:00</updated>
+        <updated>2011-08-02T15:51:33+00:00</updated>
         <content>
             
     No notes.
@@ -28,7 +28,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-23T14:58:37+01:00</updated>
+        <updated>2011-10-23T14:58:37+00:00</updated>
         <content>
             
     No notes.
@@ -41,7 +41,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-02T16:04:27+01:00</updated>
+        <updated>2011-08-02T16:04:27+00:00</updated>
         <content>
             
     No notes.
@@ -54,7 +54,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-24T21:33:45+01:00</updated>
+        <updated>2011-10-24T21:33:45+00:00</updated>
         <content>
             
     No notes.
@@ -67,7 +67,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-14T00:39:05+01:00</updated>
+        <updated>2011-09-14T00:39:05+00:00</updated>
         <content>
             
     No notes.
@@ -80,7 +80,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-03T01:03:40+01:00</updated>
+        <updated>2011-08-03T01:03:40+00:00</updated>
         <content>
             
     No notes.
@@ -93,7 +93,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-24T21:45:25+01:00</updated>
+        <updated>2011-10-24T21:45:25+00:00</updated>
         <content>
             
     No notes.
@@ -106,7 +106,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-23T00:12:15+01:00</updated>
+        <updated>2011-10-23T00:12:15+00:00</updated>
         <content>
             
     No notes.
@@ -119,7 +119,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T20:57:58+01:00</updated>
+        <updated>2011-10-22T20:57:58+00:00</updated>
         <content>
             
     No notes.
@@ -132,7 +132,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-12T22:12:51+01:00</updated>
+        <updated>2011-09-12T22:12:51+00:00</updated>
         <content>
             
     No notes.
@@ -145,7 +145,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-03T00:13:32+01:00</updated>
+        <updated>2011-08-03T00:13:32+00:00</updated>
         <content>
             
     No notes.
@@ -158,7 +158,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-23T00:21:02+01:00</updated>
+        <updated>2011-10-23T00:21:02+00:00</updated>
         <content>
             
     No notes.
@@ -171,7 +171,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T20:52:04+01:00</updated>
+        <updated>2011-10-22T20:52:04+00:00</updated>
         <content>
             
     No notes.
@@ -184,7 +184,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-12T21:52:45+01:00</updated>
+        <updated>2011-09-12T21:52:45+00:00</updated>
         <content>
             
     No notes.
@@ -197,7 +197,33 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-02T16:34:09+01:00</updated>
+        <updated>2011-08-02T16:34:09+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ContractLib 2.1.0snapshot201110270117 (snapshot)</title>
+        <link href="http://pear.phix-project.org/get/ContractLib-2.1.0snapshot201110270117.tgz" />
+        <id>http://pear.phix-project.org/get/ContractLib-2.1.0snapshot201110270117.tgz</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-10-27T01:17:25+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ContractLib 2.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ContractLib-2.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ContractLib-2.0.0.tgz</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-10-26T21:21:17+00:00</updated>
         <content>
             
     No notes.
@@ -210,7 +236,7 @@
         <author>
             <name>stuartherbert</name>
         </author>
-        <updated>2011-10-22T20:12:53+01:00</updated>
+        <updated>2011-10-22T20:12:53+00:00</updated>
         <content>
             
     No notes.
@@ -223,7 +249,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-11T16:12:11+01:00</updated>
+        <updated>2011-09-11T16:12:11+00:00</updated>
         <content>
             
     No notes.
@@ -236,7 +262,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-03T01:28:02+01:00</updated>
+        <updated>2011-08-03T01:28:02+00:00</updated>
         <content>
             
     No notes.
@@ -249,7 +275,20 @@
         <author>
             <name>stuherbert</name>
         </author>
-        <updated>2011-08-02T12:32:08+01:00</updated>
+        <updated>2011-08-02T12:32:08+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>TasksLib 1.2.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/TasksLib-1.2.0.tgz" />
+        <id>http://pear.phix-project.org/get/TasksLib-1.2.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-11-01T23:18:08+00:00</updated>
         <content>
             
     No notes.
@@ -262,7 +301,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-23T00:20:33+01:00</updated>
+        <updated>2011-10-23T00:20:33+00:00</updated>
         <content>
             
     No notes.
@@ -275,7 +314,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-12T21:41:59+01:00</updated>
+        <updated>2011-09-12T21:41:59+00:00</updated>
         <content>
             
     No notes.
@@ -288,7 +327,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-16T22:45:07+01:00</updated>
+        <updated>2011-10-16T22:45:07+00:00</updated>
         <content>
             
     No notes.
@@ -301,7 +340,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-02T16:03:31+01:00</updated>
+        <updated>2011-08-02T16:03:31+00:00</updated>
         <content>
             
     No notes.
@@ -314,7 +353,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-24T21:38:38+01:00</updated>
+        <updated>2011-10-24T21:38:38+00:00</updated>
         <content>
             
     No notes.
@@ -327,7 +366,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T21:01:09+01:00</updated>
+        <updated>2011-10-22T21:01:09+00:00</updated>
         <content>
             
     No notes.
@@ -340,7 +379,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-17T21:21:42+01:00</updated>
+        <updated>2011-09-17T21:21:42+00:00</updated>
         <content>
             
     No notes.
@@ -353,7 +392,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-14T00:36:55+01:00</updated>
+        <updated>2011-09-14T00:36:55+00:00</updated>
         <content>
             
     No notes.
@@ -366,7 +405,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-02T19:39:12+01:00</updated>
+        <updated>2011-08-02T19:39:12+00:00</updated>
         <content>
             
     No notes.
@@ -379,7 +418,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-24T21:37:02+01:00</updated>
+        <updated>2011-10-24T21:37:02+00:00</updated>
         <content>
             
     No notes.
@@ -392,7 +431,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-22T21:04:56+01:00</updated>
+        <updated>2011-10-22T21:04:56+00:00</updated>
         <content>
             
     No notes.
@@ -405,7 +444,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-17T21:06:40+01:00</updated>
+        <updated>2011-09-17T21:06:40+00:00</updated>
         <content>
             
     No notes.
@@ -418,7 +457,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-09-14T01:05:33+01:00</updated>
+        <updated>2011-09-14T01:05:33+00:00</updated>
         <content>
             
     No notes.
@@ -431,7 +470,7 @@
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-08-17T01:16:16+01:00</updated>
+        <updated>2011-08-17T01:16:16+00:00</updated>
         <content>
             
     No notes.

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/contractlib">ContractLib</p>
+    <c>pear.phix-project.org</c>
+    <v>2.1.0snapshot201110270117</v>
+    <a>2.1</a>
+    <mp>5.3.0</mp>
+    <st>snapshot</st>
+    <l>New BSD license</l>
+    <m>stuartherbert</m>
+    <s>An easy-to-use PHP library for helping with Programming By Contract in PHP</s>
+    <d>
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  </d>
+    <da>2011-10-27 01:17:25</da>
+    <n>
+    No notes.
+  </n>
+    <f>9437</f>
+    <g>http://pear.phix-project.org/get/ContractLib-2.1.0snapshot201110270117</g>
+    <x xlink:href="package.2.1.0snapshot201110270117.xml"/>
+</r>

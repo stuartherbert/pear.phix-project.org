@@ -261,12 +261,28 @@
 
         <a>
             <r>
+                <v>2.1.0snapshot201110270117</v>
+                <s>snapshot</s>
+            </r>
+            <r>
+                <v>2.0.0</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>1.0.0</v>
                 <s>stable</s>
             </r>
 
         </a>
 
+        <deps>
+            <v>2.1.0snapshot201110270117</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+        <deps>
+            <v>2.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
         <deps>
             <v>1.0.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
@@ -365,6 +381,10 @@
 
         <a>
             <r>
+                <v>1.2.0</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>1.1.0</v>
                 <s>stable</s>
             </r>
@@ -375,6 +395,10 @@
 
         </a>
 
+        <deps>
+            <v>1.2.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.1";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
         <deps>
             <v>1.1.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.1";s:3:"max";s:10:"1.999.9999";}}}}</d>
