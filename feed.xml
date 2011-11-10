@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-11-01T23:18:08+00:00</updated>
+    <updated>2011-11-10T19:41:11+00:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -191,6 +191,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ConsoleDisplayLib 3.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-11-10T19:17:50+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>ConsoleDisplayLib 3.0.0 (stable)</title>
         <link href="http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz" />
         <id>http://pear.phix-project.org/get/ConsoleDisplayLib-3.0.0.tgz</id>
@@ -347,6 +360,19 @@
   
         </content>
     </entry>    <entry>
+        <title>phix 0.14.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix-0.14.2.tgz" />
+        <id>http://pear.phix-project.org/get/phix-0.14.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-11-10T19:22:43+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>phix 0.14.1 (stable)</title>
         <link href="http://pear.phix-project.org/get/phix-0.14.1.tgz" />
         <id>http://pear.phix-project.org/get/phix-0.14.1.tgz</id>
@@ -406,6 +432,19 @@
             <name>stuart</name>
         </author>
         <updated>2011-08-02T19:39:12+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix4componentdev 0.14.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix4componentdev-0.14.2.tgz" />
+        <id>http://pear.phix-project.org/get/phix4componentdev-0.14.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-11-10T19:41:11+00:00</updated>
         <content>
             
     No notes.
