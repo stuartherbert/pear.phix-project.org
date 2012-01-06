@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2011-11-10T19:41:11+00:00</updated>
+    <updated>2012-01-06T13:38:54+00:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -217,13 +217,13 @@
   
         </content>
     </entry>    <entry>
-        <title>ContractLib 2.1.0snapshot201110270117 (snapshot)</title>
-        <link href="http://pear.phix-project.org/get/ContractLib-2.1.0snapshot201110270117.tgz" />
-        <id>http://pear.phix-project.org/get/ContractLib-2.1.0snapshot201110270117.tgz</id>
+        <title>ContractLib 2.1.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ContractLib-2.1.0.tgz" />
+        <id>http://pear.phix-project.org/get/ContractLib-2.1.0.tgz</id>
         <author>
             <name>stuartherbert</name>
         </author>
-        <updated>2011-10-27T01:17:25+00:00</updated>
+        <updated>2011-11-10T23:59:37+00:00</updated>
         <content>
             
     No notes.
@@ -289,6 +289,19 @@
             <name>stuherbert</name>
         </author>
         <updated>2011-08-02T12:32:08+00:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>TasksLib 1.3.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/TasksLib-1.3.1.tgz" />
+        <id>http://pear.phix-project.org/get/TasksLib-1.3.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2012-01-06T13:38:53+00:00</updated>
         <content>
             
     No notes.
