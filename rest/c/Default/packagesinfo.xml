@@ -348,6 +348,32 @@
 
     </pi>    <pi>
         <p>
+            <n>ContractLib2</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>An easy-to-use PHP library for helping with Programming By Contract in PHP</s>
+            <d>
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  </d>
+            <r xlink:href="/rest/r/contractlib2" />
+        </p>
+
+        <a>
+            <r>
+                <v>2.1.2</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>2.1.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}i:1;a:4:{s:4:"name";s:14:"ExceptionsLib1";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>ExceptionsLib</n>
             <c>pear.phix-project.org</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -370,6 +396,32 @@
         <deps>
             <v>1.1.2</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>ExceptionsLib1</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD License.</l>
+            <s>A simple component to simplify PHP error handling</s>
+            <d>
+    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
+  </d>
+            <r xlink:href="/rest/r/exceptionslib1" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.1.4</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.1.4</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}}}</d>
         </deps>
 
     </pi>    <pi>

@@ -9,7 +9,9 @@
   <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
   <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
   <p xlink:href="/rest/p/contractlib">ContractLib</p>
+  <p xlink:href="/rest/p/contractlib2">ContractLib2</p>
   <p xlink:href="/rest/p/exceptionslib">ExceptionsLib</p>
+  <p xlink:href="/rest/p/exceptionslib1">ExceptionsLib1</p>
   <p xlink:href="/rest/p/extenderlib">ExtenderLib</p>
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>
   <p xlink:href="/rest/p/taskslib">TasksLib</p>

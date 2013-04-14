@@ -759,6 +759,46 @@
             }
         ]
     },
+    "pear-phix\/ContractLib2": {
+        "versions": {
+            "2.1.2": {
+                "name": "pear-phix\/ContractLib2",
+                "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ContractLib2-2.1.2.tgz"
+                },
+                "version": "2.1.2",
+                "time": "2013-04-14T21:02:12+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ExceptionsLib1": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ContractLib2"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ContractLib2",
+        "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-phix\/ExceptionsLib": {
         "versions": {
             "1.1.2": {
@@ -789,6 +829,45 @@
             }
         },
         "name": "pear-phix\/ExceptionsLib",
+        "description": "A simple component to simplify PHP error handling",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ExceptionsLib1": {
+        "versions": {
+            "1.1.4": {
+                "name": "pear-phix\/ExceptionsLib1",
+                "description": "A simple component to simplify PHP error handling",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ExceptionsLib1-1.1.4.tgz"
+                },
+                "version": "1.1.4",
+                "time": "2013-04-14T21:06:05+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ExceptionsLib1"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ExceptionsLib1",
         "description": "A simple component to simplify PHP error handling",
         "maintainers": [
             {
