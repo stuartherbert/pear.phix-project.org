@@ -14,6 +14,7 @@
   <p xlink:href="/rest/p/phpinfo">PhpInfo</p>
   <p xlink:href="/rest/p/taskslib">TasksLib</p>
   <p xlink:href="/rest/p/validationlib">ValidationLib</p>
+  <p xlink:href="/rest/p/validationlib4">ValidationLib4</p>
   <p xlink:href="/rest/p/phix">phix</p>
   <p xlink:href="/rest/p/phix4componentdev">phix4componentdev</p>
 

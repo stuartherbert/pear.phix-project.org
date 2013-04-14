@@ -1113,6 +1113,45 @@
             }
         ]
     },
+    "pear-phix\/ValidationLib4": {
+        "versions": {
+            "4.0.0": {
+                "name": "pear-phix\/ValidationLib4",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib4-4.0.0.tgz"
+                },
+                "version": "4.0.0",
+                "time": "2013-04-14T20:58:50+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ValidationLib4"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ValidationLib4",
+        "description": "Lightweight library of reusable data validation tools",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-phix\/phix": {
         "versions": {
             "0.15.0": {

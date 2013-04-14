@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2013-04-14T20:57:20+01:00</updated>
+    <updated>2013-04-14T20:58:51+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -445,6 +445,19 @@
             <name>stuart</name>
         </author>
         <updated>2011-08-02T16:03:31+01:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ValidationLib4 4.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ValidationLib4-4.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ValidationLib4-4.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-04-14T20:58:50+01:00</updated>
         <content>
             
     No notes.
