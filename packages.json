@@ -1,1 +1,1604 @@
-{"pear-phix\/Autoloader":{"versions":{"3.0.0":{"name":"pear-phix\/Autoloader","description":"Simple PHP library for autoloading classes","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/Autoloader-3.0.0.tgz"},"version":"3.0.0","time":"2011-08-02T15:51:33+01:00","require":{"php":">=5.3.0"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["psr0.autoloader.php"]}}},"name":"pear-phix\/Autoloader","description":"Simple PHP library for autoloading classes","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/CommandLineLib":{"versions":{"2.0.2":{"name":"pear-phix\/CommandLineLib","description":"A simple-to-use command line parser","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.2.tgz"},"version":"2.0.2","time":"2012-01-15T10:52:31+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ContractLib":">=2.0.0,<=2.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/CommandLineLib"]}},"2.0.1":{"name":"pear-phix\/CommandLineLib","description":"A simple-to-use command line parser","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.1.tgz"},"version":"2.0.1","time":"2011-10-23T14:58:37+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/CommandLineLib"]}},"2.0.0":{"name":"pear-phix\/CommandLineLib","description":"A simple-to-use command line parser","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.0.tgz"},"version":"2.0.0","time":"2011-08-02T16:04:27+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=2.0.0,<=2.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix\/CommandLineLib"]}}},"name":"pear-phix\/CommandLineLib","description":"A simple-to-use command line parser","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ComponentManager":{"versions":{"2.1.0":{"name":"pear-phix\/ComponentManager","description":"ComponentManager allows you to create and maintain a variety of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManager-2.1.0.tgz"},"version":"2.1.0","time":"2011-10-24T21:33:45+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManagerPhpLibrary":">=2.2.0,<=9999.999.9999","pear-phix\/ComponentManagerShared":">=2.2.0,<=9999.999.9999","pear-phix\/phix":">=0.13.0,<=9999.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"]}},"2.0.1":{"name":"pear-phix\/ComponentManager","description":"ComponentManager allows you to create and maintain a variety of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManager-2.0.1.tgz"},"version":"2.0.1","time":"2011-09-14T00:39:05+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManagerPhpLibrary":">=2.0.0,<=2.999.9999","pear-phix\/ComponentManagerShared":">=2.0.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"]}},"2.0.0":{"name":"pear-phix\/ComponentManager","description":"ComponentManager allows you to create and maintain a variety of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManager-2.0.0.tgz"},"version":"2.0.0","time":"2011-08-03T01:03:40+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManagerPhpLibrary":">=2.0.0,<=2.999.9999","pear-phix\/ComponentManagerPhpDocbook":">=2.0.0,<=2.999.9999","pear-phix\/ComponentManagerPhpWebapp":">=2.0.0,<=2.999.9999","pear-phix\/ComponentManagerShared":">=2.0.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"]}}},"name":"pear-phix\/ComponentManager","description":"ComponentManager allows you to create and maintain a variety of components","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ComponentManagerPhpLibrary":{"versions":{"11.0.0":{"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-11.0.0.tgz"},"version":"11.0.0","time":"2012-01-23T19:52:18+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.3.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}},"10.0.2":{"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.2.tgz"},"version":"10.0.2","time":"2011-10-24T21:45:25+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.3.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}},"10.0.1":{"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.1.tgz"},"version":"10.0.1","time":"2011-10-23T00:12:15+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.3.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}},"10.0.0":{"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.0.tgz"},"version":"10.0.0","time":"2011-10-22T20:57:58+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.2.0snapshot,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}},"2.1.2":{"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-2.1.2.tgz"},"version":"2.1.2","time":"2011-09-12T22:12:51+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.1.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}}},"name":"pear-phix\/ComponentManagerPhpLibrary","description":"Supports creating and managing a php-library component","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ComponentManagerPhpWebapp":{"versions":{"2.0.0":{"name":"pear-phix\/ComponentManagerPhpWebapp","description":"Supports creating and managing a php-webapp component","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpWebapp-2.0.0.tgz"},"version":"2.0.0","time":"2011-08-03T00:13:32+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ComponentManagerShared":">=2.0.0,<=2.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/WebappComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}}},"name":"pear-phix\/ComponentManagerPhpWebapp","description":"Supports creating and managing a php-webapp component","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ComponentManagerShared":{"versions":{"2.4.0":{"name":"pear-phix\/ComponentManagerShared","description":"Shared code for the management of different kinds of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.4.0.tgz"},"version":"2.4.0","time":"2012-01-23T21:17:26+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/TasksLib":">=1.3.1,<=1.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":{"1":"Phix_Project\/ComponentManager"}}},"2.3.0":{"name":"pear-phix\/ComponentManagerShared","description":"Shared code for the management of different kinds of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.3.0.tgz"},"version":"2.3.0","time":"2011-10-23T00:21:02+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/TasksLib":">=1.1.0,<=1.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":{"1":"Phix_Project\/ComponentManager"}}},"2.2.0":{"name":"pear-phix\/ComponentManagerShared","description":"Shared code for the management of different kinds of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.2.0.tgz"},"version":"2.2.0","time":"2011-10-22T20:52:04+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/TasksLib":">=1.0.0,<=1.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":{"1":"Phix_Project\/ComponentManager"}}},"2.1.1":{"name":"pear-phix\/ComponentManagerShared","description":"Shared code for the management of different kinds of components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.1.1.tgz"},"version":"2.1.1","time":"2011-09-12T21:52:45+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/TasksLib":">=1.0.0,<=1.999.9999","pear-phix\/phix":">=0.13.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ComponentManager\/Entities\/ComponentFolder.php","Phix_Project\/ComponentManager\/PhixCommands"]}}},"name":"pear-phix\/ComponentManagerShared","description":"Shared code for the management of different kinds of components","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ConsoleDisplayLib":{"versions":{"3.0.1":{"name":"pear-phix\/ConsoleDisplayLib","description":"A simple library for CLI apps to output to the console","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib-3.0.1.tgz"},"version":"3.0.1","time":"2011-11-10T19:17:50+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ConsoleDisplayLib"]}},"3.0.0":{"name":"pear-phix\/ConsoleDisplayLib","description":"A simple library for CLI apps to output to the console","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib-3.0.0.tgz"},"version":"3.0.0","time":"2011-08-02T16:34:09+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix\/ConsoleDisplayLib"]}}},"name":"pear-phix\/ConsoleDisplayLib","description":"A simple library for CLI apps to output to the console","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ContractLib":{"versions":{"2.1.0":{"name":"pear-phix\/ContractLib","description":"An easy-to-use PHP library for helping with Programming By Contract in PHP","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ContractLib-2.1.0.tgz"},"version":"2.1.0","time":"2011-11-10T23:59:37+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ContractLib"]}},"2.0.0":{"name":"pear-phix\/ContractLib","description":"An easy-to-use PHP library for helping with Programming By Contract in PHP","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ContractLib-2.0.0.tgz"},"version":"2.0.0","time":"2011-10-26T21:21:17+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ContractLib"]}},"1.0.0":{"name":"pear-phix\/ContractLib","description":"An easy-to-use PHP library for helping with Programming By Contract in PHP","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ContractLib-1.0.0.tgz"},"version":"1.0.0","time":"2011-10-22T20:12:53+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ContractLib"]}}},"name":"pear-phix\/ContractLib","description":"An easy-to-use PHP library for helping with Programming By Contract in PHP","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ExceptionsLib":{"versions":{"1.1.2":{"name":"pear-phix\/ExceptionsLib","description":"A simple component to simplify PHP error handling","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ExceptionsLib-1.1.2.tgz"},"version":"1.1.2","time":"2011-09-11T16:12:11+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ExceptionsLib"]}}},"name":"pear-phix\/ExceptionsLib","description":"A simple component to simplify PHP error handling","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ExtenderLib":{"versions":{"2.0.0":{"name":"pear-phix\/ExtenderLib","description":"A simple library to help your app find extensions at runtime","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ExtenderLib-2.0.0.tgz"},"version":"2.0.0","time":"2011-08-03T01:28:02+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ExtenderLib"]}}},"name":"pear-phix\/ExtenderLib","description":"A simple library to help your app find extensions at runtime","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/PhpInfo":{"versions":{"1.0.0":{"name":"pear-phix\/PhpInfo","description":"A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/PhpInfo-1.0.0.tgz"},"version":"1.0.0","time":"2011-08-02T12:32:08+01:00","require":{"php":">=5.3.0"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}}},"name":"pear-phix\/PhpInfo","description":"A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/TasksLib":{"versions":{"1.3.1":{"name":"pear-phix\/TasksLib","description":"A library of classes for automating repetitive tasks.","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/TasksLib-1.3.1.tgz"},"version":"1.3.1","time":"2012-01-06T13:38:53+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.1,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/TasksLib"]}},"1.2.0":{"name":"pear-phix\/TasksLib","description":"A library of classes for automating repetitive tasks.","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/TasksLib-1.2.0.tgz"},"version":"1.2.0","time":"2011-11-01T23:18:08+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.1,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/TasksLib"]}},"1.1.0":{"name":"pear-phix\/TasksLib","description":"A library of classes for automating repetitive tasks.","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/TasksLib-1.1.0.tgz"},"version":"1.1.0","time":"2011-10-23T00:20:33+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.1,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/TasksLib"]}},"1.0.0":{"name":"pear-phix\/TasksLib","description":"A library of classes for automating repetitive tasks.","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/TasksLib-1.0.0.tgz"},"version":"1.0.0","time":"2011-09-12T21:41:59+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/ExceptionsLib":">=1.0.1,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/TasksLib"]}}},"name":"pear-phix\/TasksLib","description":"A library of classes for automating repetitive tasks.","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/ValidationLib":{"versions":{"3.1.1":{"name":"pear-phix\/ValidationLib","description":"Lightweight library of reusable data validation tools","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ValidationLib-3.1.1.tgz"},"version":"3.1.1","time":"2012-08-29T22:22:19+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ValidationLib"]}},"3.1.0":{"name":"pear-phix\/ValidationLib","description":"Lightweight library of reusable data validation tools","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ValidationLib-3.1.0.tgz"},"version":"3.1.0","time":"2012-01-23T21:28:30+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ValidationLib"]}},"3.0.0":{"name":"pear-phix\/ValidationLib","description":"Lightweight library of reusable data validation tools","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ValidationLib-3.0.0.tgz"},"version":"3.0.0","time":"2011-10-16T22:45:07+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project\/ValidationLib"]}},"2.0.0":{"name":"pear-phix\/ValidationLib","description":"Lightweight library of reusable data validation tools","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/ValidationLib-2.0.0.tgz"},"version":"2.0.0","time":"2011-08-02T16:03:31+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix\/ValidationLib"]}}},"name":"pear-phix\/ValidationLib","description":"Lightweight library of reusable data validation tools","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/phix":{"versions":{"0.15.0":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.15.0.tgz"},"version":"0.15.0","time":"2012-01-23T19:50:07+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.14.2":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.14.2.tgz"},"version":"0.14.2","time":"2011-11-10T19:22:43+00:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.14.1":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.14.1.tgz"},"version":"0.14.1","time":"2011-10-24T21:38:38+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999","ext-posix":"*"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.14.0":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.14.0.tgz"},"version":"0.14.0","time":"2011-10-22T21:01:09+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=3.0.0,<=3.999.9999","ext-posix":"*"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.13.2":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.13.2.tgz"},"version":"0.13.2","time":"2011-09-17T21:21:42+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=2.0.0,<=2.999.9999","ext-posix":"*"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.13.1":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.13.1.tgz"},"version":"0.13.1","time":"2011-09-14T00:36:55+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=2.0.0,<=2.999.9999","ext-posix":"*"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}},"0.13.0":{"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix-0.13.0.tgz"},"version":"0.13.0","time":"2011-08-02T19:39:12+01:00","require":{"php":">=5.3.0","pear-phix\/Autoloader":">=3.0.0,<=3.999.9999","pear-phix\/CommandLineLib":">=2.0.0,<=2.999.9999","pear-phix\/ConsoleDisplayLib":">=3.0.0,<=3.999.9999","pear-phix\/ValidationLib":">=2.0.0,<=2.999.9999","ext-posix":"*"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["Phix_Project"]}}},"name":"pear-phix\/phix","description":"Framework-agnostic command-line util for PHP development","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]},"pear-phix\/phix4componentdev":{"versions":{"0.15.0":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.15.0.tgz"},"version":"0.15.0","time":"2012-01-23T19:54:28+00:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=9999.9999.9999","pear-phix\/ComponentManagerPhpLibrary":">=11.0.0,<=11.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-phpunit\/phploc":">=1.0.0,<=999.999.9999","pear-pirum\/Pirum":">=1.0.4,<=1.999.9999","pear-phix\/phix":">=0.15.0,<=0.15.0"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.14.2":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.2.tgz"},"version":"0.14.2","time":"2011-11-10T19:41:11+00:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=9999.9999.9999","pear-phix\/ComponentManagerPhpLibrary":">=10.0.0,<=10.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-pirum\/Pirum":">=1.0.4,<=1.999.9999","pear-phix\/phix":">=0.14.2,<=0.14.2"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.14.1":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.1.tgz"},"version":"0.14.1","time":"2011-10-24T21:37:02+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=9999.9999.9999","pear-phix\/ComponentManagerPhpLibrary":">=10.0.0,<=10.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-pirum\/Pirum":">=1.0.4,<=1.999.9999","pear-phix\/phix":">=0.14.1,<=0.14.1"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.14.0":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.0.tgz"},"version":"0.14.0","time":"2011-10-22T21:04:56+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManagerPhpLibrary":">=10.0.0,<=10.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-pirum\/Pirum":">=1.0.4,<=1.999.9999","pear-phix\/phix":">=0.14.0,<=0.14.0"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.13.2":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.2.tgz"},"version":"0.13.2","time":"2011-09-17T21:06:40+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=2.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-pirum\/Pirum":">=1.0.2,<=1.999.9999","pear-phix\/phix":">=0.13.2,<=0.13.2"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.13.1":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.1.tgz"},"version":"0.13.1","time":"2011-09-14T01:05:33+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=2.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999","pear-pirum\/pirum":">=1.0.2,<=1.999.9999","pear-phix\/phix":">=0.13.1,<=0.13.1"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}},"0.13.0":{"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","dist":{"type":"pear","url":"http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.0.tgz"},"version":"0.13.0","time":"2011-08-17T01:16:16+01:00","require":{"php":">=5.3.0","pear-phix\/ComponentManager":">=2.0.0,<=2.999.9999","pear-phpunit\/PHPUnit":">=3.5.0,<=3.999.9999","pear-phing\/phing":">=2.4.6,<=2.999.9999","pear-pdepend\/PHP_Depend":">=0.10.5,<=1.999.9999","pear-phpmd\/PHP_PMD":">=1.1.1,<=1.999.9999","pear-pear\/PhpDocumentor":">=1.4.3,<=1.999.9999","pear-phpunit\/phpcpd":">=1.3.2,<=1.999.9999","pear-pear\/PHP_CodeSniffer":">=1.3.0,<=1.999.9999","pear-phpunit\/PHP_CodeBrowser":">=1.0.0,<=1.999.9999"},"authors":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}],"autoload":{"classmap":["dummy.php"]}}},"name":"pear-phix\/phix4componentdev","description":"phix and all dependencies required for creating and maintaining PHP components","maintainers":[{"name":"Stuart Herbert","email":"stuart@stuartherbert.com","homepage":""}]}}
+{
+    "pear-phix\/Autoloader": {
+        "versions": {
+            "3.0.0": {
+                "name": "pear-phix\/Autoloader",
+                "description": "Simple PHP library for autoloading classes",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/Autoloader-3.0.0.tgz"
+                },
+                "version": "3.0.0",
+                "time": "2011-08-02T15:51:33+01:00",
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "psr0.autoloader.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/Autoloader",
+        "description": "Simple PHP library for autoloading classes",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/Autoloader4": {
+        "versions": {
+            "4.3.0": {
+                "name": "pear-phix\/Autoloader4",
+                "description": "Simple PHP library for autoloading classes",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/Autoloader4-4.3.0.tgz"
+                },
+                "version": "4.3.0",
+                "time": "2013-04-14T20:57:19+01:00",
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/Autoloader4\/PSR0\/Autoloader.php",
+                        "Phix_Project\/Autoloader4\/Autoloader\/Path.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/Autoloader4",
+        "description": "Simple PHP library for autoloading classes",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/CommandLineLib": {
+        "versions": {
+            "2.0.2": {
+                "name": "pear-phix\/CommandLineLib",
+                "description": "A simple-to-use command line parser",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.2.tgz"
+                },
+                "version": "2.0.2",
+                "time": "2012-01-15T10:52:31+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ContractLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/CommandLineLib"
+                    ]
+                }
+            },
+            "2.0.1": {
+                "name": "pear-phix\/CommandLineLib",
+                "description": "A simple-to-use command line parser",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.1.tgz"
+                },
+                "version": "2.0.1",
+                "time": "2011-10-23T14:58:37+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/CommandLineLib"
+                    ]
+                }
+            },
+            "2.0.0": {
+                "name": "pear-phix\/CommandLineLib",
+                "description": "A simple-to-use command line parser",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CommandLineLib-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-08-02T16:04:27+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=2.0.0,<=2.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix\/CommandLineLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/CommandLineLib",
+        "description": "A simple-to-use command line parser",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ComponentManager": {
+        "versions": {
+            "2.1.0": {
+                "name": "pear-phix\/ComponentManager",
+                "description": "ComponentManager allows you to create and maintain a variety of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManager-2.1.0.tgz"
+                },
+                "version": "2.1.0",
+                "time": "2011-10-24T21:33:45+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=2.2.0,<=9999.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.2.0,<=9999.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=9999.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"
+                    ]
+                }
+            },
+            "2.0.1": {
+                "name": "pear-phix\/ComponentManager",
+                "description": "ComponentManager allows you to create and maintain a variety of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManager-2.0.1.tgz"
+                },
+                "version": "2.0.1",
+                "time": "2011-09-14T00:39:05+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"
+                    ]
+                }
+            },
+            "2.0.0": {
+                "name": "pear-phix\/ComponentManager",
+                "description": "ComponentManager allows you to create and maintain a variety of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManager-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-08-03T01:03:40+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ComponentManagerPhpDocbook": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ComponentManagerPhpWebapp": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/PhixCommands\/ComponentManagerVersion.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ComponentManager",
+        "description": "ComponentManager allows you to create and maintain a variety of components",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ComponentManagerPhpLibrary": {
+        "versions": {
+            "11.0.0": {
+                "name": "pear-phix\/ComponentManagerPhpLibrary",
+                "description": "Supports creating and managing a php-library component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-11.0.0.tgz"
+                },
+                "version": "11.0.0",
+                "time": "2012-01-23T19:52:18+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.3.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            },
+            "10.0.2": {
+                "name": "pear-phix\/ComponentManagerPhpLibrary",
+                "description": "Supports creating and managing a php-library component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.2.tgz"
+                },
+                "version": "10.0.2",
+                "time": "2011-10-24T21:45:25+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.3.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            },
+            "10.0.1": {
+                "name": "pear-phix\/ComponentManagerPhpLibrary",
+                "description": "Supports creating and managing a php-library component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.1.tgz"
+                },
+                "version": "10.0.1",
+                "time": "2011-10-23T00:12:15+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.3.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            },
+            "10.0.0": {
+                "name": "pear-phix\/ComponentManagerPhpLibrary",
+                "description": "Supports creating and managing a php-library component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-10.0.0.tgz"
+                },
+                "version": "10.0.0",
+                "time": "2011-10-22T20:57:58+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.2.0snapshot,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            },
+            "2.1.2": {
+                "name": "pear-phix\/ComponentManagerPhpLibrary",
+                "description": "Supports creating and managing a php-library component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpLibrary-2.1.2.tgz"
+                },
+                "version": "2.1.2",
+                "time": "2011-09-12T22:12:51+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.1.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/LibraryComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ComponentManagerPhpLibrary",
+        "description": "Supports creating and managing a php-library component",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ComponentManagerPhpWebapp": {
+        "versions": {
+            "2.0.0": {
+                "name": "pear-phix\/ComponentManagerPhpWebapp",
+                "description": "Supports creating and managing a php-webapp component",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerPhpWebapp-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-08-03T00:13:32+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ComponentManagerShared": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/WebappComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ComponentManagerPhpWebapp",
+        "description": "Supports creating and managing a php-webapp component",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ComponentManagerShared": {
+        "versions": {
+            "2.4.0": {
+                "name": "pear-phix\/ComponentManagerShared",
+                "description": "Shared code for the management of different kinds of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.4.0.tgz"
+                },
+                "version": "2.4.0",
+                "time": "2012-01-23T21:17:26+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/TasksLib": ">=1.3.1,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "Phix_Project\/ComponentManager"
+                    }
+                }
+            },
+            "2.3.0": {
+                "name": "pear-phix\/ComponentManagerShared",
+                "description": "Shared code for the management of different kinds of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.3.0.tgz"
+                },
+                "version": "2.3.0",
+                "time": "2011-10-23T00:21:02+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/TasksLib": ">=1.1.0,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "Phix_Project\/ComponentManager"
+                    }
+                }
+            },
+            "2.2.0": {
+                "name": "pear-phix\/ComponentManagerShared",
+                "description": "Shared code for the management of different kinds of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.2.0.tgz"
+                },
+                "version": "2.2.0",
+                "time": "2011-10-22T20:52:04+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/TasksLib": ">=1.0.0,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "Phix_Project\/ComponentManager"
+                    }
+                }
+            },
+            "2.1.1": {
+                "name": "pear-phix\/ComponentManagerShared",
+                "description": "Shared code for the management of different kinds of components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ComponentManagerShared-2.1.1.tgz"
+                },
+                "version": "2.1.1",
+                "time": "2011-09-12T21:52:45+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/TasksLib": ">=1.0.0,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ComponentManager\/Entities\/ComponentFolder.php",
+                        "Phix_Project\/ComponentManager\/PhixCommands"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ComponentManagerShared",
+        "description": "Shared code for the management of different kinds of components",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ConsoleDisplayLib": {
+        "versions": {
+            "3.0.1": {
+                "name": "pear-phix\/ConsoleDisplayLib",
+                "description": "A simple library for CLI apps to output to the console",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib-3.0.1.tgz"
+                },
+                "version": "3.0.1",
+                "time": "2011-11-10T19:17:50+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ConsoleDisplayLib"
+                    ]
+                }
+            },
+            "3.0.0": {
+                "name": "pear-phix\/ConsoleDisplayLib",
+                "description": "A simple library for CLI apps to output to the console",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib-3.0.0.tgz"
+                },
+                "version": "3.0.0",
+                "time": "2011-08-02T16:34:09+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix\/ConsoleDisplayLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ConsoleDisplayLib",
+        "description": "A simple library for CLI apps to output to the console",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ContractLib": {
+        "versions": {
+            "2.1.0": {
+                "name": "pear-phix\/ContractLib",
+                "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ContractLib-2.1.0.tgz"
+                },
+                "version": "2.1.0",
+                "time": "2011-11-10T23:59:37+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ContractLib"
+                    ]
+                }
+            },
+            "2.0.0": {
+                "name": "pear-phix\/ContractLib",
+                "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ContractLib-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-10-26T21:21:17+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ContractLib"
+                    ]
+                }
+            },
+            "1.0.0": {
+                "name": "pear-phix\/ContractLib",
+                "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ContractLib-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2011-10-22T20:12:53+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ContractLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ContractLib",
+        "description": "An easy-to-use PHP library for helping with Programming By Contract in PHP",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ExceptionsLib": {
+        "versions": {
+            "1.1.2": {
+                "name": "pear-phix\/ExceptionsLib",
+                "description": "A simple component to simplify PHP error handling",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ExceptionsLib-1.1.2.tgz"
+                },
+                "version": "1.1.2",
+                "time": "2011-09-11T16:12:11+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ExceptionsLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ExceptionsLib",
+        "description": "A simple component to simplify PHP error handling",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ExtenderLib": {
+        "versions": {
+            "2.0.0": {
+                "name": "pear-phix\/ExtenderLib",
+                "description": "A simple library to help your app find extensions at runtime",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ExtenderLib-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-08-03T01:28:02+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ExtenderLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ExtenderLib",
+        "description": "A simple library to help your app find extensions at runtime",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/PhpInfo": {
+        "versions": {
+            "1.0.0": {
+                "name": "pear-phix\/PhpInfo",
+                "description": "A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/PhpInfo-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2011-08-02T12:32:08+01:00",
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/PhpInfo",
+        "description": "A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/TasksLib": {
+        "versions": {
+            "1.3.1": {
+                "name": "pear-phix\/TasksLib",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib-1.3.1.tgz"
+                },
+                "version": "1.3.1",
+                "time": "2012-01-06T13:38:53+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib"
+                    ]
+                }
+            },
+            "1.2.0": {
+                "name": "pear-phix\/TasksLib",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib-1.2.0.tgz"
+                },
+                "version": "1.2.0",
+                "time": "2011-11-01T23:18:08+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib"
+                    ]
+                }
+            },
+            "1.1.0": {
+                "name": "pear-phix\/TasksLib",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib-1.1.0.tgz"
+                },
+                "version": "1.1.0",
+                "time": "2011-10-23T00:20:33+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib"
+                    ]
+                }
+            },
+            "1.0.0": {
+                "name": "pear-phix\/TasksLib",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2011-09-12T21:41:59+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ExceptionsLib": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/TasksLib",
+        "description": "A library of classes for automating repetitive tasks.",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/ValidationLib": {
+        "versions": {
+            "3.1.1": {
+                "name": "pear-phix\/ValidationLib",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib-3.1.1.tgz"
+                },
+                "version": "3.1.1",
+                "time": "2012-08-29T22:22:19+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ValidationLib"
+                    ]
+                }
+            },
+            "3.1.0": {
+                "name": "pear-phix\/ValidationLib",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib-3.1.0.tgz"
+                },
+                "version": "3.1.0",
+                "time": "2012-01-23T21:28:30+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ValidationLib"
+                    ]
+                }
+            },
+            "3.0.0": {
+                "name": "pear-phix\/ValidationLib",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib-3.0.0.tgz"
+                },
+                "version": "3.0.0",
+                "time": "2011-10-16T22:45:07+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ValidationLib"
+                    ]
+                }
+            },
+            "2.0.0": {
+                "name": "pear-phix\/ValidationLib",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2011-08-02T16:03:31+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix\/ValidationLib"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/ValidationLib",
+        "description": "Lightweight library of reusable data validation tools",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/phix": {
+        "versions": {
+            "0.15.0": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.15.0.tgz"
+                },
+                "version": "0.15.0",
+                "time": "2012-01-23T19:50:07+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.14.2": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.14.2.tgz"
+                },
+                "version": "0.14.2",
+                "time": "2011-11-10T19:22:43+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.14.1": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.14.1.tgz"
+                },
+                "version": "0.14.1",
+                "time": "2011-10-24T21:38:38+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999",
+                    "ext-posix": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.14.0": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.14.0.tgz"
+                },
+                "version": "0.14.0",
+                "time": "2011-10-22T21:01:09+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=3.0.0,<=3.999.9999",
+                    "ext-posix": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.13.2": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.13.2.tgz"
+                },
+                "version": "0.13.2",
+                "time": "2011-09-17T21:21:42+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=2.0.0,<=2.999.9999",
+                    "ext-posix": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.13.1": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.13.1.tgz"
+                },
+                "version": "0.13.1",
+                "time": "2011-09-14T00:36:55+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=2.0.0,<=2.999.9999",
+                    "ext-posix": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
+            "0.13.0": {
+                "name": "pear-phix\/phix",
+                "description": "Framework-agnostic command-line util for PHP development",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix-0.13.0.tgz"
+                },
+                "version": "0.13.0",
+                "time": "2011-08-02T19:39:12+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/CommandLineLib": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ConsoleDisplayLib": ">=3.0.0,<=3.999.9999",
+                    "pear-phix\/ValidationLib": ">=2.0.0,<=2.999.9999",
+                    "ext-posix": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/phix",
+        "description": "Framework-agnostic command-line util for PHP development",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/phix4componentdev": {
+        "versions": {
+            "0.15.0": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.15.0.tgz"
+                },
+                "version": "0.15.0",
+                "time": "2012-01-23T19:54:28+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=9999.9999.9999",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=11.0.0,<=11.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-phpunit\/phploc": ">=1.0.0,<=999.999.9999",
+                    "pear-pirum\/Pirum": ">=1.0.4,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.15.0,<=0.15.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.14.2": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.2.tgz"
+                },
+                "version": "0.14.2",
+                "time": "2011-11-10T19:41:11+00:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=9999.9999.9999",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=10.0.0,<=10.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-pirum\/Pirum": ">=1.0.4,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.14.2,<=0.14.2"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.14.1": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.1.tgz"
+                },
+                "version": "0.14.1",
+                "time": "2011-10-24T21:37:02+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=9999.9999.9999",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=10.0.0,<=10.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-pirum\/Pirum": ">=1.0.4,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.14.1,<=0.14.1"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.14.0": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.14.0.tgz"
+                },
+                "version": "0.14.0",
+                "time": "2011-10-22T21:04:56+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManagerPhpLibrary": ">=10.0.0,<=10.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-pirum\/Pirum": ">=1.0.4,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.14.0,<=0.14.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.13.2": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.2.tgz"
+                },
+                "version": "0.13.2",
+                "time": "2011-09-17T21:06:40+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=2.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-pirum\/Pirum": ">=1.0.2,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.2,<=0.13.2"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.13.1": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.1.tgz"
+                },
+                "version": "0.13.1",
+                "time": "2011-09-14T01:05:33+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=2.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999",
+                    "pear-pirum\/pirum": ">=1.0.2,<=1.999.9999",
+                    "pear-phix\/phix": ">=0.13.1,<=0.13.1"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            },
+            "0.13.0": {
+                "name": "pear-phix\/phix4componentdev",
+                "description": "phix and all dependencies required for creating and maintaining PHP components",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/phix4componentdev-0.13.0.tgz"
+                },
+                "version": "0.13.0",
+                "time": "2011-08-17T01:16:16+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/ComponentManager": ">=2.0.0,<=2.999.9999",
+                    "pear-phpunit\/PHPUnit": ">=3.5.0,<=3.999.9999",
+                    "pear-phing\/phing": ">=2.4.6,<=2.999.9999",
+                    "pear-pdepend\/PHP_Depend": ">=0.10.5,<=1.999.9999",
+                    "pear-phpmd\/PHP_PMD": ">=1.1.1,<=1.999.9999",
+                    "pear-pear\/PhpDocumentor": ">=1.4.3,<=1.999.9999",
+                    "pear-phpunit\/phpcpd": ">=1.3.2,<=1.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.3.0,<=1.999.9999",
+                    "pear-phpunit\/PHP_CodeBrowser": ">=1.0.0,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "dummy.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/phix4componentdev",
+        "description": "phix and all dependencies required for creating and maintaining PHP components",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    }
+}
