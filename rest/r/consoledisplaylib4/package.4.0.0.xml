@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packagerversion="1.9.1" version="2.0" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+  <name>ConsoleDisplayLib4</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>A simple library for CLI apps to output to the console</summary>
+  <description>
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2013-04-14</date>
+  <time>21:38:32</time>
+  <version>
+  <release>4.0.0</release>
+    <api>4.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="c5b2291625fb47f17feee8c060a6325f" name="/Phix_Project/ConsoleDisplayLib4/ConsoleOutputEngine.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d722dd8973152767c064d10f638c63ff" name="/Phix_Project/ConsoleDisplayLib4/ConsoleColor.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="c3cd2e5e49f6ce3cc7d10ff67ae400da" name="/Phix_Project/ConsoleDisplayLib4/DevString.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f739ded4c3a52db01ab0ec7b82000b64" name="/Phix_Project/ConsoleDisplayLib4/NullOutput.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="248d0f36b0634a791dbf0cd6936c3936" name="/Phix_Project/ConsoleDisplayLib4/DevNull.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="fc1256d763ae7059483c2296dcef1c87" name="/Phix_Project/ConsoleDisplayLib4/StdOut.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="b8094b3be17cc3ad8cd5f88483af5c4c" name="/Phix_Project/ConsoleDisplayLib4/StreamOutput.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="aed2d63ee2f6758b7db6a2f2ef53f4ce" name="/Phix_Project/ConsoleDisplayLib4/StdErr.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="6538805f867a3a96d24677b54f46ee3d" name="/Phix_Project/ConsoleDisplayLib4/ConsoleDisplay.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="b07797e5b9879721cd18272c0a588329" name="/Phix_Project/ConsoleDisplayLib4/StringOutput.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="de9728094b2628e3ec7375d4fb4062c3" name="/Phix_Project/ConsoleDisplayLib4/DevStringTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="6d2774b00d397bd9da914362e8b9d0d2" name="/Phix_Project/ConsoleDisplayLib4/StreamOutputTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="4fdfe9ca27846b63361d2869226b1595" name="/Phix_Project/ConsoleDisplayLib4/StringOutputTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8e1b6e883ae23df041a5745f6b5efd4f" name="/Phix_Project/ConsoleDisplayLib4/StdErrTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="a99bb93fd053d844b7b19d83a2370f0b" name="/Phix_Project/ConsoleDisplayLib4/ConsoleDisplayTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="91cd0489eb7edf87810cd3112553825f" name="/Phix_Project/ConsoleDisplayLib4/StdOutTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="dcf48047278851802491d61f71d5c4f1" name="/Phix_Project/ConsoleDisplayLib4/NullOutputTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7f12fb3165f5eb81079946a11fbd3ef6" name="/Phix_Project/ConsoleDisplayLib4/DevNullTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="ec5e1f0302158607127bf9d013fbb6ff" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8abc6790e45ff6adde54337eafd5b21e" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader4</name>
+        <channel>pear.phix-project.org</channel>
+        <min>4.0.0</min>
+	      <max>4.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease/>
+  <changelog>
+    <release>
+      <version>
+        <release>2.1.0</release>
+        <api>2.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-04-21</date>
+      <license>New BSD license</license>
+      <notes>
+        If you have the PECL ncurses extension installed, or your terminal exports the COLUMNS environment variable, ConsoleDisplayLib will use this to detect the actual width of your terminal window.
+      </notes>
+    </release>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-13</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
