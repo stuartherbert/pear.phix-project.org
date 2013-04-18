@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>CommandLineLib3</n>
+<c>pear.phix-project.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD license.</l>
+<s>A simple-to-use command line parser</s>
+<d>
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  </d>
+<r xlink:href="/rest/r/commandlinelib3" />
+</p>

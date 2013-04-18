@@ -171,6 +171,47 @@
             }
         ]
     },
+    "pear-phix\/CommandLineLib3": {
+        "versions": {
+            "3.0.0": {
+                "name": "pear-phix\/CommandLineLib3",
+                "description": "A simple-to-use command line parser",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CommandLineLib3-3.0.0.tgz"
+                },
+                "version": "3.0.0",
+                "time": "2013-04-18T11:58:19+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ContractLib2": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ValidationLib4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/CommandLineLib3"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/CommandLineLib3",
+        "description": "A simple-to-use command line parser",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-phix\/ComponentManager": {
         "versions": {
             "2.1.0": {
@@ -1105,6 +1146,46 @@
             }
         },
         "name": "pear-phix\/TasksLib",
+        "description": "A library of classes for automating repetitive tasks.",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/TasksLib2": {
+        "versions": {
+            "2.0.0": {
+                "name": "pear-phix\/TasksLib2",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib2-2.0.0.tgz"
+                },
+                "version": "2.0.0",
+                "time": "2013-04-18T11:57:55+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ExceptionsLib1": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib2"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/TasksLib2",
         "description": "A library of classes for automating repetitive tasks.",
         "maintainers": [
             {

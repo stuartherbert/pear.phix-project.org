@@ -96,6 +96,32 @@
 
     </pi>    <pi>
         <p>
+            <n>CommandLineLib3</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license.</l>
+            <s>A simple-to-use command line parser</s>
+            <d>
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  </d>
+            <r xlink:href="/rest/r/commandlinelib3" />
+        </p>
+
+        <a>
+            <r>
+                <v>3.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>3.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}i:1;a:4:{s:4:"name";s:12:"ContractLib2";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:2;a:4:{s:4:"name";s:14:"ValidationLib4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>ComponentManager</n>
             <c>pear.phix-project.org</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -550,6 +576,32 @@
         <deps>
             <v>1.0.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:13:"ExceptionsLib";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.1";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>TasksLib2</n>
+            <c>pear.phix-project.org</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>A library of classes for automating repetitive tasks.</s>
+            <d>
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  </d>
+            <r xlink:href="/rest/r/taskslib2" />
+        </p>
+
+        <a>
+            <r>
+                <v>2.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>2.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:11:"Autoloader4";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"4.0.0";s:3:"max";s:10:"4.999.9999";}i:1;a:4:{s:4:"name";s:14:"ExceptionsLib1";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"1.0.1";s:3:"max";s:10:"1.999.9999";}}}}</d>
         </deps>
 
     </pi>    <pi>
