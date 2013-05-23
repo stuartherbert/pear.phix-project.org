@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2013-04-18T11:58:20+01:00</updated>
+    <updated>2013-05-23T20:21:47+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -18,6 +18,9 @@
         <updated>2011-08-02T15:51:33+01:00</updated>
         <content>
             
+    Autoloader is a PSR0-compatible autoloader.
+  
+            
     No notes.
   
         </content>
@@ -30,6 +33,9 @@
         </author>
         <updated>2013-04-14T20:57:19+01:00</updated>
         <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
             
     No notes.
   
@@ -44,6 +50,9 @@
         <updated>2012-01-15T10:52:31+00:00</updated>
         <content>
             
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+            
     No notes.
   
         </content>
@@ -56,6 +65,9 @@
         </author>
         <updated>2011-10-23T14:58:37+01:00</updated>
         <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
             
     No notes.
   
@@ -70,6 +82,9 @@
         <updated>2011-08-02T16:04:27+01:00</updated>
         <content>
             
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+            
     No notes.
   
         </content>
@@ -82,6 +97,9 @@
         </author>
         <updated>2013-04-18T11:58:19+01:00</updated>
         <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
             
     No notes.
   
@@ -96,6 +114,9 @@
         <updated>2011-10-24T21:33:45+01:00</updated>
         <content>
             
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+            
     No notes.
   
         </content>
@@ -108,6 +129,9 @@
         </author>
         <updated>2011-09-14T00:39:05+01:00</updated>
         <content>
+            
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
             
     No notes.
   
@@ -122,6 +146,25 @@
         <updated>2011-08-03T01:03:40+01:00</updated>
         <content>
             
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 12.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerPhpLibrary-12.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerPhpLibrary-12.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-23T20:21:15+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+            
     No notes.
   
         </content>
@@ -134,6 +177,9 @@
         </author>
         <updated>2012-01-23T19:52:18+00:00</updated>
         <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
             
     No notes.
   
@@ -148,6 +194,9 @@
         <updated>2011-10-24T21:45:25+01:00</updated>
         <content>
             
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+            
     No notes.
   
         </content>
@@ -160,6 +209,9 @@
         </author>
         <updated>2011-10-23T00:12:15+01:00</updated>
         <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
             
     No notes.
   
@@ -174,6 +226,9 @@
         <updated>2011-10-22T20:57:58+01:00</updated>
         <content>
             
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+            
     No notes.
   
         </content>
@@ -186,6 +241,9 @@
         </author>
         <updated>2011-09-12T22:12:51+01:00</updated>
         <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
             
     No notes.
   
@@ -200,6 +258,25 @@
         <updated>2011-08-03T00:13:32+01:00</updated>
         <content>
             
+    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 2.5.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ComponentManagerShared-2.5.0.tgz" />
+        <id>http://pear.phix-project.org/get/ComponentManagerShared-2.5.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-19T19:06:12+01:00</updated>
+        <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+            
     No notes.
   
         </content>
@@ -212,6 +289,9 @@
         </author>
         <updated>2012-01-23T21:17:26+00:00</updated>
         <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
             
     No notes.
   
@@ -226,6 +306,9 @@
         <updated>2011-10-23T00:21:02+01:00</updated>
         <content>
             
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+            
     No notes.
   
         </content>
@@ -238,6 +321,9 @@
         </author>
         <updated>2011-10-22T20:52:04+01:00</updated>
         <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
             
     No notes.
   
@@ -252,6 +338,9 @@
         <updated>2011-09-12T21:52:45+01:00</updated>
         <content>
             
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+            
     No notes.
   
         </content>
@@ -264,6 +353,9 @@
         </author>
         <updated>2011-11-10T19:17:50+00:00</updated>
         <content>
+            
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
             
     No notes.
   
@@ -278,6 +370,9 @@
         <updated>2011-08-02T16:34:09+01:00</updated>
         <content>
             
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
+            
     No notes.
   
         </content>
@@ -290,6 +385,9 @@
         </author>
         <updated>2013-04-14T21:38:32+01:00</updated>
         <content>
+            
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
             
     No notes.
   
@@ -304,6 +402,9 @@
         <updated>2011-11-10T23:59:37+00:00</updated>
         <content>
             
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  
+            
     No notes.
   
         </content>
@@ -316,6 +417,9 @@
         </author>
         <updated>2011-10-26T21:21:17+01:00</updated>
         <content>
+            
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  
             
     No notes.
   
@@ -330,6 +434,9 @@
         <updated>2011-10-22T20:12:53+01:00</updated>
         <content>
             
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  
+            
     No notes.
   
         </content>
@@ -342,6 +449,9 @@
         </author>
         <updated>2013-04-14T21:02:12+01:00</updated>
         <content>
+            
+    ContractLib is a lightweight PHP library designed to help you write more robust PHP components by helping your components enforce programming contracts throughout your code.
+  
             
     No notes.
   
@@ -356,6 +466,9 @@
         <updated>2011-09-11T16:12:11+01:00</updated>
         <content>
             
+    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
+  
+            
     No notes.
   
         </content>
@@ -368,6 +481,9 @@
         </author>
         <updated>2013-04-14T21:06:05+01:00</updated>
         <content>
+            
+    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
+  
             
     No notes.
   
@@ -382,6 +498,9 @@
         <updated>2011-08-03T01:28:02+01:00</updated>
         <content>
             
+    Description goes here
+  
+            
     No notes.
   
         </content>
@@ -394,6 +513,9 @@
         </author>
         <updated>2011-08-02T12:32:08+01:00</updated>
         <content>
+            
+    A simple PHP component to demonstrate what happens when you ship web pages inside a PHP component.
+  
             
     No notes.
   
@@ -408,6 +530,9 @@
         <updated>2012-01-06T13:38:53+00:00</updated>
         <content>
             
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
+            
     No notes.
   
         </content>
@@ -420,6 +545,9 @@
         </author>
         <updated>2011-11-01T23:18:08+00:00</updated>
         <content>
+            
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
             
     No notes.
   
@@ -434,6 +562,9 @@
         <updated>2011-10-23T00:20:33+01:00</updated>
         <content>
             
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
+            
     No notes.
   
         </content>
@@ -446,6 +577,9 @@
         </author>
         <updated>2011-09-12T21:41:59+01:00</updated>
         <content>
+            
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
             
     No notes.
   
@@ -460,6 +594,9 @@
         <updated>2013-04-18T11:57:55+01:00</updated>
         <content>
             
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
+            
     No notes.
   
         </content>
@@ -472,6 +609,9 @@
         </author>
         <updated>2012-08-29T22:22:19+01:00</updated>
         <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
             
     No notes.
   
@@ -486,6 +626,9 @@
         <updated>2012-01-23T21:28:30+00:00</updated>
         <content>
             
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+            
     No notes.
   
         </content>
@@ -498,6 +641,9 @@
         </author>
         <updated>2011-10-16T22:45:07+01:00</updated>
         <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
             
     No notes.
   
@@ -512,6 +658,9 @@
         <updated>2011-08-02T16:03:31+01:00</updated>
         <content>
             
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+            
     No notes.
   
         </content>
@@ -524,6 +673,25 @@
         </author>
         <updated>2013-04-14T20:58:50+01:00</updated>
         <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix 1.0.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix-1.0.0.tgz" />
+        <id>http://pear.phix-project.org/get/phix-1.0.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-05-23T20:05:22+01:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
             
     No notes.
   
@@ -538,174 +706,24 @@
         <updated>2012-01-23T19:50:07+00:00</updated>
         <content>
             
-    No notes.
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
   
-        </content>
-    </entry>    <entry>
-        <title>phix 0.14.2 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.14.2.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.14.2.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-11-10T19:22:43+00:00</updated>
-        <content>
             
     No notes.
   
         </content>
     </entry>    <entry>
-        <title>phix 0.14.1 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.14.1.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.14.1.tgz</id>
+        <title>phix4componentdev 0.16.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/phix4componentdev-0.16.0.tgz" />
+        <id>http://pear.phix-project.org/get/phix4componentdev-0.16.0.tgz</id>
         <author>
             <name>stuart</name>
         </author>
-        <updated>2011-10-24T21:38:38+01:00</updated>
+        <updated>2013-05-23T20:06:48+01:00</updated>
         <content>
             
-    No notes.
+    phix4componentdev is a meta-package that installs phix itself, plus all of the phix extensions required for creating and maintaining PHP components, plus all of the third-party tools you'll need to use.
   
-        </content>
-    </entry>    <entry>
-        <title>phix 0.14.0 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.14.0.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.14.0.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-10-22T21:01:09+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix 0.13.2 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.13.2.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.13.2.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-09-17T21:21:42+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix 0.13.1 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.13.1.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.13.1.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-09-14T00:36:55+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix 0.13.0 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix-0.13.0.tgz" />
-        <id>http://pear.phix-project.org/get/phix-0.13.0.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-08-02T19:39:12+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.15.0 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.15.0.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.15.0.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2012-01-23T19:54:28+00:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.14.2 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.14.2.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.14.2.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-11-10T19:41:11+00:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.14.1 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.14.1.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.14.1.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-10-24T21:37:02+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.14.0 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.14.0.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.14.0.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-10-22T21:04:56+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.13.2 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.13.2.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-09-17T21:06:40+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.13.1 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.13.1.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.13.1.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-09-14T01:05:33+01:00</updated>
-        <content>
-            
-    No notes.
-  
-        </content>
-    </entry>    <entry>
-        <title>phix4componentdev 0.13.0 (stable)</title>
-        <link href="http://pear.phix-project.org/get/phix4componentdev-0.13.0.tgz" />
-        <id>http://pear.phix-project.org/get/phix4componentdev-0.13.0.tgz</id>
-        <author>
-            <name>stuart</name>
-        </author>
-        <updated>2011-08-17T01:16:16+01:00</updated>
-        <content>
             
     No notes.
   
