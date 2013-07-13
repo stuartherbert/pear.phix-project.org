@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2013-07-13T21:27:55+01:00</updated>
+    <updated>2013-07-14T00:05:18+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -147,6 +147,22 @@
         <content>
             
     CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>CommandLineLib4 4.1.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/CommandLineLib4-4.1.0.tgz" />
+        <id>http://pear.phix-project.org/get/CommandLineLib4-4.1.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-07-14T00:05:17+01:00</updated>
+        <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluent interface.
   
             
     No notes.
