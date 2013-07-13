@@ -130,6 +130,35 @@
     },
     "pear-phix\/CliEngine": {
         "versions": {
+            "1.1.0": {
+                "name": "pear-phix\/CliEngine",
+                "description": "Generic CLI engine",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CliEngine-1.1.0.tgz"
+                },
+                "version": "1.1.0",
+                "time": "2013-07-14T00:40:26+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/CommandLineLib4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ConsoleDisplayLib4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ValidationLib4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project"
+                    ]
+                }
+            },
             "1.0.0": {
                 "name": "pear-phix\/CliEngine",
                 "description": "Generic CLI engine",

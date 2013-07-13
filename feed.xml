@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2013-07-14T00:05:18+01:00</updated>
+    <updated>2013-07-14T00:40:27+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -67,6 +67,22 @@
         <content>
             
     Autoloader is a PSR0-compatible autoloader.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>CliEngine 1.1.0 (stable)</title>
+        <link href="http://pear.phix-project.org/get/CliEngine-1.1.0.tgz" />
+        <id>http://pear.phix-project.org/get/CliEngine-1.1.0.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-07-14T00:40:26+01:00</updated>
+        <content>
+            
+    CliEngine is a generic engine that makes it very quick and easy to create command-line tools in PHP
   
             
     No notes.

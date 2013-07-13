@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>CliEngine</name>
+  <channel>pear.phix-project.org</channel>
+  <summary>Generic CLI engine</summary>
+  <description>
+    CliEngine is a generic engine that makes it very quick and easy to create command-line tools in PHP
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuart</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2013-07-14</date>
+  <time>00:40:26</time>
+  <version>
+    <release>1.1.0</release>
+    <api>1.1</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>All rights reserved.</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="9de77b5e22c01453c5a22029e03d1be7" name="/cliengine-example" role="script">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="dacb487dadaf54e70176c91ca039765b" name="/Phix_Project/CliEngine/CliSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="9b707975f1b0932717071cc8588861e9" name="/Phix_Project/CliEngine/Helpers/HelpHelper.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="07bd313756cac62d04af712b32617e86" name="/Phix_Project/CliEngine/CliResult.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7f32c281453ab08ad68fee1acc972064" name="/Phix_Project/CliEngine/Commands/HelpCommand.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7c8149bd17364400ce532ebab36a1dca" name="/Phix_Project/CliEngine/Switches/VerboseLongSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7ee7213b7041365e8e95a04775915ffa" name="/Phix_Project/CliEngine/Switches/ShortHelpSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="6f496ef7ace67d2d1b92a80a6d74c2a9" name="/Phix_Project/CliEngine/Switches/VerboseShortSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f8eb10e981420d689fe143e3448f9a35" name="/Phix_Project/CliEngine/Switches/LongHelpSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="c1ca162e40a7c5e9e98ce264f55048dc" name="/Phix_Project/CliEngine/Switches/VersionSwitch.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="af88e37fe25af74d173c0e9e1e3d2f64" name="/Phix_Project/CliEngine/CliCommand.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f49023d2f14fdd805004251cec837d6f" name="/Phix_Project/CliEngine/OutputWriter.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1d2696cd1c3aa523cff7f06ad15ff1ef" name="/Phix_Project/CliEngine.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="652d67714acbb63f54f47557fcd536c2" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="901ec4bb8bf615b407cf4d27dbb86706" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.4</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader4</name>
+        <channel>pear.phix-project.org</channel>
+        <min>4.0.0</min>
+        <max>4.999.9999</max>
+      </package>
+      <package>
+        <name>CommandLineLib4</name>
+        <channel>pear.phix-project.org</channel>
+        <min>4.0.0</min>
+        <max>4.999.9999</max>
+      </package>
+      <package>
+        <name>ConsoleDisplayLib4</name>
+        <channel>pear.phix-project.org</channel>
+        <min>4.0.0</min>
+        <max>4.999.9999</max>
+      </package>
+      <package>
+        <name>ValidationLib4</name>
+        <channel>pear.phix-project.org</channel>
+        <min>4.0.0</min>
+        <max>4.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>X.Y.Z</release>
+        <api>X.Y</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>Your release date</date>
+      <license>All rights reserved</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
