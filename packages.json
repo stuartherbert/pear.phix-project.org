@@ -39,6 +39,58 @@
     },
     "pear-phix\/Autoloader4": {
         "versions": {
+            "4.3.3": {
+                "name": "pear-phix\/Autoloader4",
+                "description": "Simple PHP library for autoloading classes",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/Autoloader4-4.3.3.tgz"
+                },
+                "version": "4.3.3",
+                "time": "2013-06-09T12:31:30+01:00",
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/Autoloader4\/PSR0\/Autoloader.php",
+                        "Phix_Project\/Autoloader4\/Autoloader\/Path.php"
+                    ]
+                }
+            },
+            "4.3.2": {
+                "name": "pear-phix\/Autoloader4",
+                "description": "Simple PHP library for autoloading classes",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/Autoloader4-4.3.2.tgz"
+                },
+                "version": "4.3.2",
+                "time": "2013-06-08T17:15:15+01:00",
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/Autoloader4\/PSR0\/Autoloader.php",
+                        "Phix_Project\/Autoloader4\/Autoloader\/Path.php"
+                    ]
+                }
+            },
             "4.3.0": {
                 "name": "pear-phix\/Autoloader4",
                 "description": "Simple PHP library for autoloading classes",
@@ -203,6 +255,47 @@
             }
         },
         "name": "pear-phix\/CommandLineLib3",
+        "description": "A simple-to-use command line parser",
+        "maintainers": [
+            {
+                "name": "Stuart Herbert",
+                "email": "stuart@stuartherbert.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-phix\/CommandLineLib4": {
+        "versions": {
+            "4.0.1": {
+                "name": "pear-phix\/CommandLineLib4",
+                "description": "A simple-to-use command line parser",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/CommandLineLib4-4.0.1.tgz"
+                },
+                "version": "4.0.1",
+                "time": "2013-07-13T21:07:21+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ContractLib2": ">=2.0.0,<=2.999.9999",
+                    "pear-phix\/ValidationLib4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/CommandLineLib4"
+                    ]
+                }
+            }
+        },
+        "name": "pear-phix\/CommandLineLib4",
         "description": "A simple-to-use command line parser",
         "maintainers": [
             {
@@ -766,6 +859,58 @@
     },
     "pear-phix\/ConsoleDisplayLib4": {
         "versions": {
+            "4.0.2": {
+                "name": "pear-phix\/ConsoleDisplayLib4",
+                "description": "A simple library for CLI apps to output to the console",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib4-4.0.2.tgz"
+                },
+                "version": "4.0.2",
+                "time": "2013-06-09T12:59:38+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ConsoleDisplayLib4"
+                    ]
+                }
+            },
+            "4.0.1": {
+                "name": "pear-phix\/ConsoleDisplayLib4",
+                "description": "A simple library for CLI apps to output to the console",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ConsoleDisplayLib4-4.0.1.tgz"
+                },
+                "version": "4.0.1",
+                "time": "2013-06-08T19:30:19+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ConsoleDisplayLib4"
+                    ]
+                }
+            },
             "4.0.0": {
                 "name": "pear-phix\/ConsoleDisplayLib4",
                 "description": "A simple library for CLI apps to output to the console",
@@ -978,6 +1123,32 @@
     },
     "pear-phix\/ExceptionsLib1": {
         "versions": {
+            "1.1.6": {
+                "name": "pear-phix\/ExceptionsLib1",
+                "description": "A simple component to simplify PHP error handling",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ExceptionsLib1-1.1.6.tgz"
+                },
+                "version": "1.1.6",
+                "time": "2013-06-09T12:40:54+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ExceptionsLib1"
+                    ]
+                }
+            },
             "1.1.4": {
                 "name": "pear-phix\/ExceptionsLib1",
                 "description": "A simple component to simplify PHP error handling",
@@ -1215,6 +1386,33 @@
     },
     "pear-phix\/TasksLib2": {
         "versions": {
+            "2.0.2": {
+                "name": "pear-phix\/TasksLib2",
+                "description": "A library of classes for automating repetitive tasks.",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/TasksLib2-2.0.2.tgz"
+                },
+                "version": "2.0.2",
+                "time": "2013-06-09T12:55:19+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999",
+                    "pear-phix\/ExceptionsLib1": ">=1.0.1,<=1.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/TasksLib2"
+                    ]
+                }
+            },
             "2.0.0": {
                 "name": "pear-phix\/TasksLib2",
                 "description": "A library of classes for automating repetitive tasks.",
@@ -1372,6 +1570,32 @@
     },
     "pear-phix\/ValidationLib4": {
         "versions": {
+            "4.0.2": {
+                "name": "pear-phix\/ValidationLib4",
+                "description": "Lightweight library of reusable data validation tools",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.phix-project.org\/get\/ValidationLib4-4.0.2.tgz"
+                },
+                "version": "4.0.2",
+                "time": "2013-06-09T12:45:34+01:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader4": ">=4.0.0,<=4.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Stuart Herbert",
+                        "email": "stuart@stuartherbert.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Phix_Project\/ValidationLib4"
+                    ]
+                }
+            },
             "4.0.0": {
                 "name": "pear-phix\/ValidationLib4",
                 "description": "Lightweight library of reusable data validation tools",

@@ -3,6 +3,14 @@
     <p>Autoloader4</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>4.3.3</v>
+        <s>stable</s>
+    </r>
+    <r>
+        <v>4.3.2</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>4.3.0</v>
         <s>stable</s>
     </r>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.phix-project.org</id>
-    <updated>2013-05-23T20:21:47+01:00</updated>
+    <updated>2013-07-13T21:13:30+01:00</updated>
     <title>Phix Project PEAR channel Latest Releases</title>
     <link href="http://pear.phix-project.org/feed.xml" rel="self" />
     <author>
@@ -16,6 +16,38 @@
             <name>stuart</name>
         </author>
         <updated>2011-08-02T15:51:33+01:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>Autoloader4 4.3.3 (stable)</title>
+        <link href="http://pear.phix-project.org/get/Autoloader4-4.3.3.tgz" />
+        <id>http://pear.phix-project.org/get/Autoloader4-4.3.3.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-09T12:31:30+01:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>Autoloader4 4.3.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/Autoloader4-4.3.2.tgz" />
+        <id>http://pear.phix-project.org/get/Autoloader4-4.3.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-08T17:15:15+01:00</updated>
         <content>
             
     Autoloader is a PSR0-compatible autoloader.
@@ -99,6 +131,22 @@
         <content>
             
     CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>CommandLineLib4 4.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/CommandLineLib4-4.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/CommandLineLib4-4.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-07-13T21:07:21+01:00</updated>
+        <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluent interface.
   
             
     No notes.
@@ -377,6 +425,38 @@
   
         </content>
     </entry>    <entry>
+        <title>ConsoleDisplayLib4 4.0.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.2.tgz" />
+        <id>http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-09T12:59:38+01:00</updated>
+        <content>
+            
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ConsoleDisplayLib4 4.0.1 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.1.tgz" />
+        <id>http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.1.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-08T19:30:19+01:00</updated>
+        <content>
+            
+    ConsoleDisplayLib is a simple reusable library for writing word-wrapped output to a terminal, possibly in colour.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>ConsoleDisplayLib4 4.0.0 (stable)</title>
         <link href="http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.0.tgz" />
         <id>http://pear.phix-project.org/get/ConsoleDisplayLib4-4.0.0.tgz</id>
@@ -464,6 +544,22 @@
             <name>stuart</name>
         </author>
         <updated>2011-09-11T16:12:11+01:00</updated>
+        <content>
+            
+    ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ExceptionsLib1 1.1.6 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ExceptionsLib1-1.1.6.tgz" />
+        <id>http://pear.phix-project.org/get/ExceptionsLib1-1.1.6.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-09T12:40:54+01:00</updated>
         <content>
             
     ExceptionsLib is an easy-to-use component to help you standardise your approach to PHP error handling, and to make it easy to deal with legacy PHP4-style errors.
@@ -585,6 +681,22 @@
   
         </content>
     </entry>    <entry>
+        <title>TasksLib2 2.0.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/TasksLib2-2.0.2.tgz" />
+        <id>http://pear.phix-project.org/get/TasksLib2-2.0.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-09T12:55:19+01:00</updated>
+        <content>
+            
+    TasksLib is a simple-to-use PHP component that provides a collection of classes that automate common repetitive tasks.  It was originally created to stop individual Phix commands duplicating code, but it's generic enough to be useful to a wider range of projects.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>TasksLib2 2.0.0 (stable)</title>
         <link href="http://pear.phix-project.org/get/TasksLib2-2.0.0.tgz" />
         <id>http://pear.phix-project.org/get/TasksLib2-2.0.0.tgz</id>
@@ -656,6 +768,22 @@
             <name>stuart</name>
         </author>
         <updated>2011-08-02T16:03:31+01:00</updated>
+        <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>ValidationLib4 4.0.2 (stable)</title>
+        <link href="http://pear.phix-project.org/get/ValidationLib4-4.0.2.tgz" />
+        <id>http://pear.phix-project.org/get/ValidationLib4-4.0.2.tgz</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2013-06-09T12:45:34+01:00</updated>
         <content>
             
     Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.

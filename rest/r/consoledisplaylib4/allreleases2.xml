@@ -3,6 +3,16 @@
     <p>ConsoleDisplayLib4</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>4.0.2</v>
+        <s>stable</s>
+        <m>5.3.0</m>
+    </r>
+    <r>
+        <v>4.0.1</v>
+        <s>stable</s>
+        <m>5.3.0</m>
+    </r>
+    <r>
         <v>4.0.0</v>
         <s>stable</s>
         <m>5.3.0</m>

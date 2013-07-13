@@ -3,6 +3,10 @@
     <p>ValidationLib4</p>
     <c>pear.phix-project.org</c>
     <r>
+        <v>4.0.2</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>4.0.0</v>
         <s>stable</s>
     </r>
