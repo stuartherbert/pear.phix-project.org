@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/cliengine">CliEngine</p>
+    <c>pear.phix-project.org</c>
+    <v>1.0.0</v>
+    <a>1.0</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>All rights reserved.</l>
+    <m>stuart</m>
+    <s>Generic CLI engine</s>
+    <d>
+    CliEngine is a generic engine that makes it very quick and easy to create command-line tools in PHP
+  </d>
+    <da>2013-07-13 21:27:54</da>
+    <n>
+    No notes.
+  </n>
+    <f>12569</f>
+    <g>http://pear.phix-project.org/get/CliEngine-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

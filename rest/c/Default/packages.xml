@@ -2,6 +2,7 @@
 <l xmlns="http://pear.php.net/dtd/rest.categorypackages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackages http://pear.php.net/dtd/rest.categorypackages.xsd">
   <p xlink:href="/rest/p/autoloader">Autoloader</p>
   <p xlink:href="/rest/p/autoloader4">Autoloader4</p>
+  <p xlink:href="/rest/p/cliengine">CliEngine</p>
   <p xlink:href="/rest/p/commandlinelib">CommandLineLib</p>
   <p xlink:href="/rest/p/commandlinelib3">CommandLineLib3</p>
   <p xlink:href="/rest/p/commandlinelib4">CommandLineLib4</p>
